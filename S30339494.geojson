@@ -33,6 +33,38 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "I've been told, this is a good spot for the GRPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0257649421691895,
+          46.151698473682195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "CIBU should be around there"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.030206680297851,
+          46.15513214278456
+        ]
+      }
     }
   ]
 }
