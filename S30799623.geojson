@@ -1,0 +1,542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon crécerelle",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2859m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077326\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.454683,
+          46.026886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Aigle royal",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Aigle royal(<i>Aquila chrysaetos</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2855m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077331\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.455109,
+          46.026824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Tichodrome échelette",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Tichodrome échelette(<i>Tichodroma muraria</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2873m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077333\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.455597,
+          46.026373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Evolène [602/96] / Evolène (VS) - 2389m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077334\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466832,
+          46.023496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2903m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077335\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453661,
+          46.030138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Rougequeue noir",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [602/96] / Evolène (VS) - 2389m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077336\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466832,
+          46.023496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Linotte mélodieuse",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Evolène [601/96] / Evolène (VS) - 2410m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077337\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.464449,
+          46.020086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Evolène [601/96] / Evolène (VS) - 2410m<br><b>Observation:</b> >1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077338\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.464449,
+          46.020086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Accenteur alpin",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2728m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077340\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45688,
+          46.030105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Evolène [601/96] / Evolène (VS) - 2447m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077341\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457794,
+          46.01782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Rougequeue noir",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [601/97] / Evolène (VS) - 2728m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077342\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45688,
+          46.030105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Merle à plastron",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Merle à plastron(<i>Turdus torquatus</i>)<br><b>Place:</b> Evolène [601/96] / Evolène (VS) - 2457m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077343\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457003,
+          46.017804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Tsijiore Nouve / Evolène (VS) - 2398m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077344\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466863,
+          46.024411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Chocard à bec jaune",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Evolène [601/96] / Evolène (VS) - 2574m<br><b>Observation:</b> ~100ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077345\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.461341,
+          46.023726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Linotte mélodieuse",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Tsijiore Nouve / Evolène (VS) - 2398m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077346\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466863,
+          46.024411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">6 Niverolle alpine",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Niverolle alpine(<i>Montifringilla nivalis</i>)<br><b>Place:</b> Evolène [600/96] / Evolène (VS) - 2575m<br><b>Observation:</b> >6ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077347\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.446961,
+          46.019274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Tsijiore Nouve / Evolène (VS) - 2398m<br><b>Observation:</b> >5ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077348\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466863,
+          46.024411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougequeue noir",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [600/96] / Evolène (VS) - 2650m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077349\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.445972,
+          46.022475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Merle à plastron",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Merle à plastron(<i>Turdus torquatus</i>)<br><b>Place:</b> Tsijiore Nouve / Evolène (VS) - 2398m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077350\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466863,
+          46.024411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Traquet motteux",
+        "description": "<b>Date:</b> 21.07.2016 21:21<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Evolène [602/97] / Evolène (VS) - 2374m<br><b>Observation:</b> =4ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12077351\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.468436,
+          46.0262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.467012405395508,
+            46.023518750316896
+          ],
+          [
+            7.4669694900512695,
+            46.022505580854464
+          ],
+          [
+            7.465209960937499,
+            46.020240781976256
+          ],
+          [
+            7.463879585266113,
+            46.02021098137262
+          ],
+          [
+            7.457656860351562,
+            46.01839311417857
+          ],
+          [
+            7.455425262451171,
+            46.017797079137544
+          ],
+          [
+            7.45370864868164,
+            46.018214304340866
+          ],
+          [
+            7.452721595764159,
+            46.0177374752801
+          ],
+          [
+            7.45023250579834,
+            46.01770767332727
+          ],
+          [
+            7.44971752166748,
+            46.017201037671775
+          ],
+          [
+            7.44847297668457,
+            46.017201037671775
+          ],
+          [
+            7.446885108947753,
+            46.01955536402927
+          ],
+          [
+            7.445340156555176,
+            46.0208367906757
+          ],
+          [
+            7.444310188293457,
+            46.02319096222853
+          ],
+          [
+            7.446198463439941,
+            46.022445982072576
+          ],
+          [
+            7.446284294128418,
+            46.02289297137079
+          ],
+          [
+            7.447271347045898,
+            46.02214798719935
+          ],
+          [
+            7.44800090789795,
+            46.02268437681468
+          ],
+          [
+            7.447915077209472,
+            46.02331015812191
+          ],
+          [
+            7.449159622192383,
+            46.0267369301532
+          ],
+          [
+            7.449545860290527,
+            46.02718388475789
+          ],
+          [
+            7.448215484619141,
+            46.0273626655879
+          ],
+          [
+            7.44722843170166,
+            46.02909085046717
+          ],
+          [
+            7.447915077209472,
+            46.02944839921349
+          ],
+          [
+            7.449846267700194,
+            46.03004430865096
+          ],
+          [
+            7.451906204223634,
+            46.02900146291918
+          ],
+          [
+            7.453794479370116,
+            46.02849493075018
+          ],
+          [
+            7.455554008483886,
+            46.0280777831256
+          ],
+          [
+            7.4552106857299805,
+            46.026528350100904
+          ],
+          [
+            7.456240653991699,
+            46.02640916114625
+          ],
+          [
+            7.4559831619262695,
+            46.02757124249205
+          ],
+          [
+            7.456541061401366,
+            46.026528350100904
+          ],
+          [
+            7.4562835693359375,
+            46.02783941164099
+          ],
+          [
+            7.45697021484375,
+            46.02667733593286
+          ],
+          [
+            7.455682754516601,
+            46.029239829392566
+          ],
+          [
+            7.45645523071289,
+            46.030133694512465
+          ],
+          [
+            7.458257675170898,
+            46.0305508266214
+          ],
+          [
+            7.45997428894043,
+            46.02992512727745
+          ],
+          [
+            7.461948394775391,
+            46.029478194837964
+          ],
+          [
+            7.4632787704467765,
+            46.02915044208551
+          ],
+          [
+            7.46443748474121,
+            46.02846513459568
+          ],
+          [
+            7.465767860412598,
+            46.02795859751178
+          ],
+          [
+            7.466926574707031,
+            46.02694550941845
+          ],
+          [
+            7.4681711196899405,
+            46.02617078246595
+          ],
+          [
+            7.467656135559082,
+            46.02557483126793
+          ],
+          [
+            7.467312812805175,
+            46.024829883235604
+          ],
+          [
+            7.467269897460937,
+            46.02420411913062
+          ]
+        ]
+      }
+    }
+  ]
+}
