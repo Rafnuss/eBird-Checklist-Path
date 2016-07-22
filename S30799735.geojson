@@ -1,0 +1,666 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pinson des arbres",
+        "description": "<b>Date:</b> 20.07.2016 11:47<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2005m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074506\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484587,
+          46.012974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette grise",
+        "description": "<b>Date:</b> 20.07.2016 11:47<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2005m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074507\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484587,
+          46.012974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Troglodyte mignon",
+        "description": "<b>Date:</b> 20.07.2016 11:47<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2005m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074508\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484587,
+          46.012974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pouillot véloce",
+        "description": "<b>Date:</b> 20.07.2016 11:48<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2030m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074509\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484385,
+          46.011571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Fauvette babillarde",
+        "description": "<b>Date:</b> 20.07.2016 12:06<br><b>Specie:</b> Fauvette babillarde(<i>Sylvia curruca</i>)<br><b>Place:</b> Borgne d'Arolla (604/94) / Evolène (VS) - 2081m<br><b>Observation:</b> =3ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074510\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.488922,
+          46.00391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette des ruisseaux",
+        "description": "<b>Date:</b> 20.07.2016 12:09<br><b>Specie:</b> Bergeronnette des ruisseaux(<i>Motacilla cinerea</i>)<br><b>Place:</b> Borgne d'Arolla (604/94) / Evolène (VS) - 2110m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074511\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491089,
+          46.001588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 20.07.2016 12:20<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Evolène [604/94] / Evolène (VS) - 2229m<br><b>Observation:</b> ~5ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074512\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.495968,
+          45.998029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Rougequeue noir",
+        "description": "<b>Date:</b> 20.07.2016 12:38<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [604/93] / Evolène (VS) - 2359m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074513\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.498866,
+          45.997173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pipit spioncelle",
+        "description": "<b>Date:</b> 20.07.2016 21:03<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Borgne d'Arolla (604/94) / Evolène (VS) - 2099m<br><b>Observation:</b> >2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074514\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490601,
+          46.002387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Chocard à bec jaune",
+        "description": "<b>Date:</b> 20.07.2016 12:38<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Evolène [604/93] / Evolène (VS) - 2359m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074515\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.498866,
+          45.997173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Chocard à bec jaune",
+        "description": "<b>Date:</b> 20.07.2016 21:03<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Borgne d'Arolla (604/94) / Evolène (VS) - 2099m<br><b>Observation:</b> >1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074516\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490601,
+          46.002387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pipit spioncelle",
+        "description": "<b>Date:</b> 20.07.2016 21:10<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Borgne d'Arolla (603/95) / Evolène (VS) - 2061m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074517\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.486055,
+          46.006386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Merle à plastron",
+        "description": "<b>Date:</b> 20.07.2016 13:19<br><b>Specie:</b> Merle à plastron(<i>Turdus torquatus</i>)<br><b>Place:</b> Evolène [605/93] / Evolène (VS) - 2581m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074518\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.504909,
+          45.995061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Fauvette des jardins",
+        "description": "<b>Date:</b> 20.07.2016 21:10<br><b>Specie:</b> Fauvette des jardins(<i>Sylvia borin</i>)<br><b>Place:</b> Borgne d'Arolla (603/95) / Evolène (VS) - 2061m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074519\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.486055,
+          46.006386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougequeue noir",
+        "description": "<b>Date:</b> 20.07.2016 14:38<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [605/93] / Evolène (VS) - 2535m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074520\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.510133,
+          45.990571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Accenteur mouchet",
+        "description": "<b>Date:</b> 20.07.2016 21:10<br><b>Specie:</b> Accenteur mouchet(<i>Prunella modularis</i>)<br><b>Place:</b> Borgne d'Arolla (603/95) / Evolène (VS) - 2066m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074521\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.485762,
+          46.006424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Chocard à bec jaune",
+        "description": "<b>Date:</b> 20.07.2016 18:41<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Evolène [606/92] / Evolène (VS) - 2583m<br><b>Observation:</b> ~10ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074522\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.521433,
+          45.986128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 20.07.2016 19:50<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [605/93] / Evolène (VS) - 2509m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074523\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.507614,
+          45.990484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Accenteur mouchet",
+        "description": "<b>Date:</b> 20.07.2016 21:19<br><b>Specie:</b> Accenteur mouchet(<i>Prunella modularis</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2004m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074524\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484398,
+          46.013296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 20.07.2016 20:35<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Evolène [604/93] / Evolène (VS) - 2385m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074525\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.499703,
+          45.994703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pinson des arbres",
+        "description": "<b>Date:</b> 20.07.2016 21:19<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2004m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074526\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484398,
+          46.013296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Accenteur alpin",
+        "description": "<b>Date:</b> 20.07.2016 20:35<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Evolène [604/93] / Evolène (VS) - 2385m<br><b>Observation:</b> =3ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074527\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.499703,
+          45.994703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Fauvette à tête noire",
+        "description": "<b>Date:</b> 20.07.2016 21:20<br><b>Specie:</b> Fauvette à tête noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Evolène [603/95] / Evolène (VS) - 2000m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074528\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484517,
+          46.01351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Rougequeue noir",
+        "description": "<b>Date:</b> 20.07.2016 21:03<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Borgne d'Arolla (604/94) / Evolène (VS) - 2099m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12074529\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490601,
+          46.002387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.48416781425476,
+            46.014056812607365
+          ],
+          [
+            7.4845004081726065,
+            46.01343837763417
+          ],
+          [
+            7.484768629074097,
+            46.01188108303321
+          ],
+          [
+            7.485648393630981,
+            46.01082299182731
+          ],
+          [
+            7.486066818237305,
+            46.010077845028306
+          ],
+          [
+            7.485508918762207,
+            46.009146397412465
+          ],
+          [
+            7.485337257385254,
+            46.007246195638
+          ],
+          [
+            7.485487461090089,
+            46.00645628863424
+          ],
+          [
+            7.487879991531372,
+            46.00519688527208
+          ],
+          [
+            7.489832639694213,
+            46.002946282422705
+          ],
+          [
+            7.490122318267821,
+            46.00295373490111
+          ],
+          [
+            7.49041199684143,
+            46.00234262833828
+          ],
+          [
+            7.491527795791625,
+            46.00112784768649
+          ],
+          [
+            7.492268085479735,
+            46.001090584054666
+          ],
+          [
+            7.492654323577881,
+            46.000919171025075
+          ],
+          [
+            7.492707967758178,
+            46.001023509454164
+          ],
+          [
+            7.493523359298706,
+            46.0003154948229
+          ],
+          [
+            7.493973970413208,
+            45.99983105853916
+          ],
+          [
+            7.494950294494629,
+            45.998407536608354
+          ],
+          [
+            7.496967315673828,
+            45.99833300565542
+          ],
+          [
+            7.498083114624023,
+            45.99720012281077
+          ],
+          [
+            7.4983084201812735,
+            45.997751660777105
+          ],
+          [
+            7.498619556427002,
+            45.997282108532005
+          ],
+          [
+            7.4987804889678955,
+            45.99556038287722
+          ],
+          [
+            7.499767541885376,
+            45.99386096476583
+          ],
+          [
+            7.500443458557128,
+            45.993152858483725
+          ],
+          [
+            7.50066876411438,
+            45.99324230398771
+          ],
+          [
+            7.50040054321289,
+            45.99433054604069
+          ],
+          [
+            7.500185966491699,
+            45.994844844769965
+          ],
+          [
+            7.50042200088501,
+            45.995299510680624
+          ],
+          [
+            7.50091552734375,
+            45.99504609079778
+          ],
+          [
+            7.500904798507691,
+            45.995187707934186
+          ],
+          [
+            7.501688003540039,
+            45.99500136952152
+          ],
+          [
+            7.50292181968689,
+            45.99506845142234
+          ],
+          [
+            7.505164146423339,
+            45.99503118370971
+          ],
+          [
+            7.505797147750855,
+            45.99504609079778
+          ],
+          [
+            7.506312131881714,
+            45.99462869081385
+          ],
+          [
+            7.506473064422607,
+            45.99393550174214
+          ],
+          [
+            7.506473064422607,
+            45.992914336432975
+          ],
+          [
+            7.50488519668579,
+            45.991803704597054
+          ],
+          [
+            7.506011724472046,
+            45.99149063656296
+          ],
+          [
+            7.506333589553833,
+            45.99114775049373
+          ],
+          [
+            7.506837844848633,
+            45.99043215533266
+          ],
+          [
+            7.508232593536377,
+            45.99043215533266
+          ],
+          [
+            7.509423494338989,
+            45.99076013759662
+          ],
+          [
+            7.5103676319122314,
+            45.990506696926964
+          ],
+          [
+            7.511955499649047,
+            45.99043960949661
+          ],
+          [
+            7.513532638549805,
+            45.99035015946301
+          ],
+          [
+            7.514991760253905,
+            45.99021598414153
+          ],
+          [
+            7.517480850219727,
+            45.98947055976582
+          ],
+          [
+            7.518264055252075,
+            45.989023300321655
+          ],
+          [
+            7.5195300579071045,
+            45.988792214859494
+          ],
+          [
+            7.5206780433654785,
+            45.988069134761744
+          ],
+          [
+            7.521107196807861,
+            45.987532409406164
+          ],
+          [
+            7.521665096282959,
+            45.98682422215401
+          ],
+          [
+            7.522641420364379,
+            45.98607129734924
+          ],
+          [
+            7.522716522216796,
+            45.98559419118222
+          ],
+          [
+            7.5237035751342765,
+            45.9844014077745
+          ],
+          [
+            7.524057626724243,
+            45.983253329471985
+          ],
+          [
+            7.524175643920898,
+            45.97432881819752
+          ],
+          [
+            7.526235580444336,
+            45.96776685651942
+          ]
+        ]
+      }
+    }
+  ]
+}
