@@ -901,57 +901,6 @@
           46.23707
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": ">1 Rousserolle turdoïde",
-        "description": "<b>Date:</b> 05.08.2016 <br><b>Specie:</b> Rousserolle turdoïde(<i>Acrocephalus arundinaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 424m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125941\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.2386720600276,
-          46.231695144989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Petit Gravelot",
-        "description": "<b>Date:</b> 05.08.2016 10:35<br><b>Specie:</b> Petit Gravelot(<i>Charadrius dubius</i>)<br><b>Place:</b> Préverenges / Préverenges (VD) - 371m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12126289\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.536181,
-          46.507642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Mouette mélanocéphale",
-        "description": "<b>Date:</b> 05.08.2016 10:35<br><b>Specie:</b> Mouette mélanocéphale(<i>Larus melanocephalus</i>)<br><b>Place:</b> Préverenges / Préverenges (VD) - 371m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12126290\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.536181,
-          46.507642
-        ]
-      }
     }
   ]
 }
