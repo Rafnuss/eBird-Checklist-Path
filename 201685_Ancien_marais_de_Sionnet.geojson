@@ -1,0 +1,957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=13 Héron cendré",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Héron cendré(<i>Ardea cinerea</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =13ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125888\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228386,
+          46.238168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Rousserolle effarvatte",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Rousserolle effarvatte(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125889\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.227742,
+          46.237356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "x Merle noir",
+        "description": "<b>Date:</b> 05.08.2016 06:30<br><b>Specie:</b> Merle noir(<i>Turdus merula</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> xind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125890\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2293,
+          46.238142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=11 Héron cendré",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Héron cendré(<i>Ardea cinerea</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =11ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125891\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228944,
+          46.238553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Milan noir",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Milan noir(<i>Milvus migrans</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125892\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.229373,
+          46.238494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Pigeon ramier",
+        "description": "<b>Date:</b> 05.08.2016 06:39<br><b>Specie:</b> Pigeon ramier(<i>Columba palumbus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 424m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125893\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23432,
+          46.235078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "x Chardonneret élégant",
+        "description": "<b>Date:</b> 05.08.2016 06:30<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> xind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125894\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228453,
+          46.236908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Corneille noire",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125895\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228125,
+          46.238643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rousserolle effarvatte",
+        "description": "<b>Date:</b> 05.08.2016 06:43<br><b>Specie:</b> Rousserolle effarvatte(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125896\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.235795,
+          46.23461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "x Moineau domestique",
+        "description": "<b>Date:</b> 05.08.2016 06:30<br><b>Specie:</b> Moineau domestique(<i>Passer domesticus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> xind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125897\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228453,
+          46.236908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Rousserolle turdoïde",
+        "description": "<b>Date:</b> 05.08.2016 07:04<br><b>Specie:</b> Rousserolle turdoïde(<i>Acrocephalus arundinaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125898\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238773,
+          46.232643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Faucon crécerelle",
+        "description": "<b>Date:</b> 05.08.2016 06:44<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125899\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.237917,
+          46.234695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grimpereau des jardins",
+        "description": "<b>Date:</b> 05.08.2016 06:31<br><b>Specie:</b> Grimpereau des jardins(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125900\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.229366,
+          46.23822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon hobereau",
+        "description": "<b>Date:</b> 05.08.2016 06:45<br><b>Specie:</b> Faucon hobereau(<i>Falco subbuteo</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125901\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23714,
+          46.234071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Foulque macroule",
+        "description": "<b>Date:</b> 05.08.2016 07:05<br><b>Specie:</b> Foulque macroule(<i>Fulica atra</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125902\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238773,
+          46.232643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Mésange bleue",
+        "description": "<b>Date:</b> 05.08.2016 06:31<br><b>Specie:</b> Mésange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125903\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.229366,
+          46.23822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Milan noir",
+        "description": "<b>Date:</b> 05.08.2016 06:31<br><b>Specie:</b> Milan noir(<i>Milvus migrans</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125904\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.230885,
+          46.237053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Buse variable",
+        "description": "<b>Date:</b> 05.08.2016 06:47<br><b>Specie:</b> Buse variable(<i>Buteo buteo</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125905\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240821,
+          46.233322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 07:05<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125906\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.236411,
+          46.231667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=7 Goéland leucophée",
+        "description": "<b>Date:</b> 05.08.2016 06:31<br><b>Specie:</b> Goéland leucophée(<i>Larus michahellis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =7ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125907\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.230885,
+          46.237053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Corneille noire",
+        "description": "<b>Date:</b> 05.08.2016 06:47<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125908\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.241653,
+          46.234487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "x Étourneau sansonnet",
+        "description": "<b>Date:</b> 05.08.2016 07:05<br><b>Specie:</b> Étourneau sansonnet(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> xind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125909\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.236851,
+          46.234014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 06:32<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125910\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22884,
+          46.237391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic épeiche",
+        "description": "<b>Date:</b> 05.08.2016 06:50<br><b>Specie:</b> Pic épeiche(<i>Dendrocopos major</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125911\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240587,
+          46.233047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 06:32<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125912\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.231157,
+          46.236107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Hirondelle rustique",
+        "description": "<b>Date:</b> 05.08.2016 07:11<br><b>Specie:</b> Hirondelle rustique(<i>Hirundo rustica</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125913\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23706,
+          46.23218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Pigeon colombin",
+        "description": "<b>Date:</b> 05.08.2016 07:13<br><b>Specie:</b> Pigeon colombin(<i>Columba oenas</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> ~20ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125914\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.234093,
+          46.23236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Héron garde-boeufs",
+        "description": "<b>Date:</b> 05.08.2016 06:53<br><b>Specie:</b> Héron garde-boeufs(<i>Bubulcus ibis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125915\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.242598,
+          46.230202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rousserolle effarvatte",
+        "description": "<b>Date:</b> 05.08.2016 06:33<br><b>Specie:</b> Rousserolle effarvatte(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 427m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125916\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.231157,
+          46.236107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Héron cendré",
+        "description": "<b>Date:</b> 05.08.2016 06:35<br><b>Specie:</b> Héron cendré(<i>Ardea cinerea</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125917\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23225,
+          46.236618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pie-grièche écorcheur",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Pie-grièche écorcheur(<i>Lanius collurio</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125918\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23315,
+          46.232216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Chardonneret élégant",
+        "description": "<b>Date:</b> 05.08.2016 06:58<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125919\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240365,
+          46.232174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon crécerelle",
+        "description": "<b>Date:</b> 05.08.2016 06:35<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125920\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23225,
+          46.236618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125921\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.233389,
+          46.23248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic vert",
+        "description": "<b>Date:</b> 05.08.2016 06:37<br><b>Specie:</b> Pic vert(<i>Picus viridis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125922\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.233675,
+          46.235321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Canard colvert",
+        "description": "<b>Date:</b> 05.08.2016 06:58<br><b>Specie:</b> Canard colvert(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125923\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240382,
+          46.232895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Corneille noire",
+        "description": "<b>Date:</b> 05.08.2016 06:37<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125924\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.233675,
+          46.235321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Merle noir",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Merle noir(<i>Turdus merula</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 430m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125925\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232466,
+          46.233279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon pèlerin",
+        "description": "<b>Date:</b> 05.08.2016 07:00<br><b>Specie:</b> Faucon pèlerin(<i>Falco peregrinus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125926\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240855,
+          46.232679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rousserolle effarvatte",
+        "description": "<b>Date:</b> 05.08.2016 06:38<br><b>Specie:</b> Rousserolle effarvatte(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125927\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.233675,
+          46.235321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Chardonneret élégant",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125928\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232384,
+          46.233937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 06:38<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 424m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125929\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23432,
+          46.235078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Rousserolle effarvatte",
+        "description": "<b>Date:</b> 05.08.2016 07:00<br><b>Specie:</b> Rousserolle effarvatte(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125930\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240855,
+          46.232679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Busard des roseaux",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Busard des roseaux(<i>Circus aeruginosus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125931\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.231131,
+          46.234636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Chevalier culblanc",
+        "description": "<b>Date:</b> 05.08.2016 07:01<br><b>Specie:</b> Chevalier culblanc(<i>Tringa ochropus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125932\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238702,
+          46.232554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Verdier d'Europe",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Verdier d'Europe(<i>Carduelis chloris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125933\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232247,
+          46.234012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Héron cendré",
+        "description": "<b>Date:</b> 05.08.2016 07:02<br><b>Specie:</b> Héron cendré(<i>Ardea cinerea</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125934\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238702,
+          46.232554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~500 Étourneau sansonnet",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Étourneau sansonnet(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 429m<br><b>Observation:</b> ~500ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125935\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232226,
+          46.234001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Goéland leucophée",
+        "description": "<b>Date:</b> 05.08.2016 07:02<br><b>Specie:</b> Goéland leucophée(<i>Larus michahellis</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125936\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.235259,
+          46.232349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Héron cendré",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Héron cendré(<i>Ardea cinerea</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 426m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125937\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23045,
+          46.23679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Busard des roseaux",
+        "description": "<b>Date:</b> 05.08.2016 07:02<br><b>Specie:</b> Busard des roseaux(<i>Circus aeruginosus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 425m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125938\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238986,
+          46.231327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Busard des roseaux",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Busard des roseaux(<i>Circus aeruginosus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125939\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.227859,
+          46.237357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faisan de Colchide",
+        "description": "<b>Date:</b> 05.08.2016 07:17<br><b>Specie:</b> Faisan de Colchide(<i>Phasianus colchicus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 428m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125940\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.226824,
+          46.23707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Rousserolle turdoïde",
+        "description": "<b>Date:</b> 05.08.2016 <br><b>Specie:</b> Rousserolle turdoïde(<i>Acrocephalus arundinaceus</i>)<br><b>Place:</b> Ancien marais de Sionnet / Choulex (GE) - 424m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12125941\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2386720600276,
+          46.231695144989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Petit Gravelot",
+        "description": "<b>Date:</b> 05.08.2016 10:35<br><b>Specie:</b> Petit Gravelot(<i>Charadrius dubius</i>)<br><b>Place:</b> Préverenges / Préverenges (VD) - 371m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12126289\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.536181,
+          46.507642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Mouette mélanocéphale",
+        "description": "<b>Date:</b> 05.08.2016 10:35<br><b>Specie:</b> Mouette mélanocéphale(<i>Larus melanocephalus</i>)<br><b>Place:</b> Préverenges / Préverenges (VD) - 371m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12126290\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.536181,
+          46.507642
+        ]
+      }
+    }
+  ]
+}
