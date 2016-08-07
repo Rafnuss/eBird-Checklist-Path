@@ -4,263 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Bergeronnette grise",
-        "description": "<b>Date:</b> 07.08.2016 08:28<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132214\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.112271,
-          46.718111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Pic épeiche",
-        "description": "<b>Date:</b> 07.08.2016 08:29<br><b>Specie:</b> Pic épeiche(<i>Dendrocopos major</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132215\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.111729,
-          46.718425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~5 Mouette rieuse",
-        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mouette rieuse(<i>Larus ridibundus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132216\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.112321,
-          46.716962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~10 Goéland leucophée",
-        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Goéland leucophée(<i>Larus michahellis</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132218\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.111369,
-          46.716931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~5 Mésange bleue",
-        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132219\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.110647,
-          46.71857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": ">1 Mésange nonnette",
-        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange nonnette(<i>Parus palustris</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132220\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.110647,
-          46.71857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": ">2 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132221\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.110647,
-          46.71857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Troglodyte mignon",
-        "description": "<b>Date:</b> 07.08.2016 08:31<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132222\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.112485,
-          46.718072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~80 Hirondelle de rochers",
-        "description": "<b>Date:</b> 07.08.2016 08:34<br><b>Specie:</b> Hirondelle de rochers(<i>Ptyonoprogne rupestris</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~80ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132223\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.112485,
-          46.718072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Cincle plongeur",
-        "description": "<b>Date:</b> 07.08.2016 08:40<br><b>Specie:</b> Cincle plongeur(<i>Cinclus cinclus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132224\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.113128,
-          46.718278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Pinson des arbres",
-        "description": "<b>Date:</b> 07.08.2016 08:40<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 674m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132225\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.112298,
-          46.719271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Sittelle torchepot",
-        "description": "<b>Date:</b> 07.08.2016 08:44<br><b>Specie:</b> Sittelle torchepot(<i>Sitta europaea</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 675m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132226\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.110728,
-          46.718335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": ">1 Mésange à longue queue",
-        "description": "<b>Date:</b> 07.08.2016 08:44<br><b>Specie:</b> Mésange à longue queue(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 675m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132227\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.110728,
-          46.718335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "=1 Merle noir",
-        "description": "<b>Date:</b> 07.08.2016 <br><b>Specie:</b> Merle noir(<i>Turdus merula</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132231\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1121667389715,
-          46.717373551768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": ">1 Corneille noire",
-        "description": "<b>Date:</b> 07.08.2016 <br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132233\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1121667389715,
-          46.717373551768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~10 Hirondelle de fenêtre",
-        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Hirondelle de fenêtre(<i>Delichon urbicum</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1059m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134224\">ornitho.ch</a>",
+        "title": "~10 Hirondelle de fenÃªtre",
+        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Hirondelle de fenÃªtre(<i>Delichon urbicum</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1059m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134224\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -276,8 +21,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "~5 Chardonneret élégant",
-        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1064m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134225\">ornitho.ch</a>",
+        "title": "~5 Chardonneret Ã©lÃ©gant",
+        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Chardonneret Ã©lÃ©gant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1064m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134225\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -293,8 +38,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Mésange huppée",
-        "description": "<b>Date:</b> 07.08.2016 10:02<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1208m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134226\">ornitho.ch</a>",
+        "title": ">1 MÃ©sange huppÃ©e",
+        "description": "<b>Date:</b> 07.08.2016 10:02<br><b>Specie:</b> MÃ©sange huppÃ©e(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1208m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134226\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -361,8 +106,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "~20 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 10:11<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1314m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134230\">ornitho.ch</a>",
+        "title": "~20 MÃ©sange noire",
+        "description": "<b>Date:</b> 07.08.2016 10:11<br><b>Specie:</b> MÃ©sange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1314m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134230\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -378,8 +123,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">3 Chardonneret élégant",
-        "description": "<b>Date:</b> 07.08.2016 10:56<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1492m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134231\">ornitho.ch</a>",
+        "title": ">3 Chardonneret Ã©lÃ©gant",
+        "description": "<b>Date:</b> 07.08.2016 10:56<br><b>Specie:</b> Chardonneret Ã©lÃ©gant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1492m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134231\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -429,8 +174,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Mésange boréale (M. alpestre ou des saules)",
-        "description": "<b>Date:</b> 07.08.2016 10:13<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1353m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134234\">ornitho.ch</a>",
+        "title": "=1 MÃ©sange borÃ©ale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 07.08.2016 10:13<br><b>Specie:</b> MÃ©sange borÃ©ale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1353m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134234\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -548,8 +293,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">2 Mésange bleue",
-        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> Mésange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1324m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134241\">ornitho.ch</a>",
+        "title": ">2 MÃ©sange bleue",
+        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> MÃ©sange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1324m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134241\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -565,8 +310,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Chocard à bec jaune",
-        "description": "<b>Date:</b> 07.08.2016 11:48<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1574m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134242\">ornitho.ch</a>",
+        "title": ">1 Chocard Ã  bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 11:48<br><b>Specie:</b> Chocard Ã  bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1574m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134242\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -616,8 +361,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Faucon crécerelle",
-        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1320m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134245\">ornitho.ch</a>",
+        "title": "=1 Faucon crÃ©cerelle",
+        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> Faucon crÃ©cerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1320m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134245\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -735,8 +480,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "~10 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134252\">ornitho.ch</a>",
+        "title": "~10 MÃ©sange noire",
+        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> MÃ©sange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134252\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -752,8 +497,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Chocard à bec jaune",
-        "description": "<b>Date:</b> 07.08.2016 13:26<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2028m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134253\">ornitho.ch</a>",
+        "title": "=1 Chocard Ã  bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 13:26<br><b>Specie:</b> Chocard Ã  bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2028m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134253\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -769,8 +514,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=2 Fauvette à tête noire",
-        "description": "<b>Date:</b> 07.08.2016 10:27<br><b>Specie:</b> Fauvette à tête noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1371m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134254\">ornitho.ch</a>",
+        "title": "=2 Fauvette Ã  tÃªte noire",
+        "description": "<b>Date:</b> 07.08.2016 10:27<br><b>Specie:</b> Fauvette Ã  tÃªte noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1371m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134254\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -786,8 +531,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Fauvette à tête noire",
-        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Fauvette à tête noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134255\">ornitho.ch</a>",
+        "title": "=1 Fauvette Ã  tÃªte noire",
+        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Fauvette Ã  tÃªte noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134255\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -803,8 +548,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Pouillot véloce",
-        "description": "<b>Date:</b> 07.08.2016 11:06<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1458m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134256\">ornitho.ch</a>",
+        "title": "=1 Pouillot vÃ©loce",
+        "description": "<b>Date:</b> 07.08.2016 11:06<br><b>Specie:</b> Pouillot vÃ©loce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1458m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134256\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -820,8 +565,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Faucon crécerelle",
-        "description": "<b>Date:</b> 07.08.2016 15:07<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1651m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134257\">ornitho.ch</a>",
+        "title": "=1 Faucon crÃ©cerelle",
+        "description": "<b>Date:</b> 07.08.2016 15:07<br><b>Specie:</b> Faucon crÃ©cerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1651m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134257\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -888,8 +633,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">3 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 11:53<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134261\">ornitho.ch</a>",
+        "title": ">3 MÃ©sange noire",
+        "description": "<b>Date:</b> 07.08.2016 11:53<br><b>Specie:</b> MÃ©sange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134261\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -905,8 +650,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Tarier des prés",
-        "description": "<b>Date:</b> 07.08.2016 15:25<br><b>Specie:</b> Tarier des prés(<i>Saxicola rubetra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1501m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134262\">ornitho.ch</a>",
+        "title": "=1 Tarier des prÃ©s",
+        "description": "<b>Date:</b> 07.08.2016 15:25<br><b>Specie:</b> Tarier des prÃ©s(<i>Saxicola rubetra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1501m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134262\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -939,8 +684,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">2 Chardonneret élégant",
-        "description": "<b>Date:</b> 07.08.2016 10:34<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134264\">ornitho.ch</a>",
+        "title": ">2 Chardonneret Ã©lÃ©gant",
+        "description": "<b>Date:</b> 07.08.2016 10:34<br><b>Specie:</b> Chardonneret Ã©lÃ©gant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134264\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -956,8 +701,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">3 Mésange huppée",
-        "description": "<b>Date:</b> 07.08.2016 11:09<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1410m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134265\">ornitho.ch</a>",
+        "title": ">3 MÃ©sange huppÃ©e",
+        "description": "<b>Date:</b> 07.08.2016 11:09<br><b>Specie:</b> MÃ©sange huppÃ©e(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1410m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134265\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1024,8 +769,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Roitelet à triple bandeau",
-        "description": "<b>Date:</b> 07.08.2016 09:56<br><b>Specie:</b> Roitelet à triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1204m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134269\">ornitho.ch</a>",
+        "title": "=1 Roitelet Ã  triple bandeau",
+        "description": "<b>Date:</b> 07.08.2016 09:56<br><b>Specie:</b> Roitelet Ã  triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1204m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134269\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1143,8 +888,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">3 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 10:35<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134276\">ornitho.ch</a>",
+        "title": ">3 MÃ©sange noire",
+        "description": "<b>Date:</b> 07.08.2016 10:35<br><b>Specie:</b> MÃ©sange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134276\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1194,8 +939,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Linotte mélodieuse",
-        "description": "<b>Date:</b> 07.08.2016 13:56<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1985m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134279\">ornitho.ch</a>",
+        "title": ">1 Linotte mÃ©lodieuse",
+        "description": "<b>Date:</b> 07.08.2016 13:56<br><b>Specie:</b> Linotte mÃ©lodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1985m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134279\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1296,8 +1041,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=2 Linotte mélodieuse",
-        "description": "<b>Date:</b> 07.08.2016 14:03<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134285\">ornitho.ch</a>",
+        "title": "=2 Linotte mÃ©lodieuse",
+        "description": "<b>Date:</b> 07.08.2016 14:03<br><b>Specie:</b> Linotte mÃ©lodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134285\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1330,8 +1075,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Chardonneret élégant",
-        "description": "<b>Date:</b> 07.08.2016 15:54<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1066m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134287\">ornitho.ch</a>",
+        "title": ">1 Chardonneret Ã©lÃ©gant",
+        "description": "<b>Date:</b> 07.08.2016 15:54<br><b>Specie:</b> Chardonneret Ã©lÃ©gant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1066m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134287\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1381,8 +1126,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">1 Mésange charbonnière",
-        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Mésange charbonnière(<i>Parus major</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134290\">ornitho.ch</a>",
+        "title": ">1 MÃ©sange charbonniÃ¨re",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> MÃ©sange charbonniÃ¨re(<i>Parus major</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134290\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1449,8 +1194,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "~5 Mésange noire",
-        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134294\">ornitho.ch</a>",
+        "title": "~5 MÃ©sange noire",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> MÃ©sange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134294\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1466,8 +1211,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Bec-croisé des sapins",
-        "description": "<b>Date:</b> 07.08.2016 12:38<br><b>Specie:</b> Bec-croisé des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134295\">ornitho.ch</a>",
+        "title": "=1 Bec-croisÃ© des sapins",
+        "description": "<b>Date:</b> 07.08.2016 12:38<br><b>Specie:</b> Bec-croisÃ© des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134295\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1500,8 +1245,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">3 Chardonneret élégant",
-        "description": "<b>Date:</b> 07.08.2016 11:38<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134297\">ornitho.ch</a>",
+        "title": ">3 Chardonneret Ã©lÃ©gant",
+        "description": "<b>Date:</b> 07.08.2016 11:38<br><b>Specie:</b> Chardonneret Ã©lÃ©gant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134297\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1636,8 +1381,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=2 Faucon crécerelle",
-        "description": "<b>Date:</b> 07.08.2016 12:51<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1696m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134305\">ornitho.ch</a>",
+        "title": "=2 Faucon crÃ©cerelle",
+        "description": "<b>Date:</b> 07.08.2016 12:51<br><b>Specie:</b> Faucon crÃ©cerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1696m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134305\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1704,8 +1449,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">2 Grèbe huppé",
-        "description": "<b>Date:</b> 07.08.2016 16:01<br><b>Specie:</b> Grèbe huppé(<i>Podiceps cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134309\">ornitho.ch</a>",
+        "title": ">2 GrÃ¨be huppÃ©",
+        "description": "<b>Date:</b> 07.08.2016 16:01<br><b>Specie:</b> GrÃ¨be huppÃ©(<i>Podiceps cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134309\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1738,8 +1483,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ">2 Chocard à bec jaune",
-        "description": "<b>Date:</b> 07.08.2016 14:37<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2055m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134311\">ornitho.ch</a>",
+        "title": ">2 Chocard Ã  bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 14:37<br><b>Specie:</b> Chocard Ã  bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2055m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134311\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -1800,6 +1545,439 @@
         "coordinates": [
           7.314706,
           46.657483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.272756099700927,
+            46.663243626586365
+          ],
+          [
+            7.271897792816161,
+            46.66202871129495
+          ],
+          [
+            7.273346185684205,
+            46.66093894586695
+          ],
+          [
+            7.273775339126587,
+            46.6601878785293
+          ],
+          [
+            7.273496389389037,
+            46.659635616477736
+          ],
+          [
+            7.274397611618042,
+            46.659105439601305
+          ],
+          [
+            7.274268865585327,
+            46.65888453103517
+          ],
+          [
+            7.273947000503539,
+            46.659031803512875
+          ],
+          [
+            7.273732423782349,
+            46.65842062010846
+          ],
+          [
+            7.274483442306518,
+            46.65782415735422
+          ],
+          [
+            7.275041341781616,
+            46.65663121210716
+          ],
+          [
+            7.277476787567139,
+            46.65576226011358
+          ],
+          [
+            7.277648448944091,
+            46.65500375670547
+          ],
+          [
+            7.2773802280426025,
+            46.653339430391895
+          ],
+          [
+            7.277916669845581,
+            46.652978574124845
+          ],
+          [
+            7.274837493896484,
+            46.651336279475075
+          ],
+          [
+            7.275588512420654,
+            46.65058507875315
+          ],
+          [
+            7.274419069290161,
+            46.65038622975678
+          ],
+          [
+            7.27243423461914,
+            46.650305216993125
+          ],
+          [
+            7.2703421115875235,
+            46.64989278649675
+          ],
+          [
+            7.2689902782440186,
+            46.64896480638137
+          ],
+          [
+            7.268604040145873,
+            46.64731502464255
+          ],
+          [
+            7.269934415817262,
+            46.64609238607043
+          ],
+          [
+            7.2704172134399405,
+            46.644972837357905
+          ],
+          [
+            7.270846366882324,
+            46.64389745954172
+          ],
+          [
+            7.270975112915039,
+            46.64313142395063
+          ],
+          [
+            7.273002862930297,
+            46.64325664204847
+          ],
+          [
+            7.273367643356323,
+            46.644096332392785
+          ],
+          [
+            7.275470495223998,
+            46.6456357308409
+          ],
+          [
+            7.275223731994628,
+            46.64609975144575
+          ],
+          [
+            7.276747226715087,
+            46.6467037088108
+          ],
+          [
+            7.277669906616211,
+            46.6478232217016
+          ],
+          [
+            7.279182672500611,
+            46.64891325146369
+          ],
+          [
+            7.279890775680542,
+            46.649421433507136
+          ],
+          [
+            7.282948493957519,
+            46.6494435282703
+          ],
+          [
+            7.284117937088013,
+            46.6483756043939
+          ],
+          [
+            7.284826040267944,
+            46.64818411236604
+          ],
+          [
+            7.2849440574646,
+            46.647322389851425
+          ],
+          [
+            7.285480499267578,
+            46.64626178944947
+          ],
+          [
+            7.285394668579102,
+            46.644656118715055
+          ],
+          [
+            7.285609245300293,
+            46.64364702602263
+          ],
+          [
+            7.286446094512939,
+            46.64295464496616
+          ],
+          [
+            7.286757230758667,
+            46.64293991335805
+          ],
+          [
+            7.286982536315917,
+            46.641974984290194
+          ],
+          [
+            7.287894487380981,
+            46.640833252096094
+          ],
+          [
+            7.2884416580200195,
+            46.64087008254293
+          ],
+          [
+            7.289257049560547,
+            46.64116472521516
+          ],
+          [
+            7.289557456970215,
+            46.64157722226057
+          ],
+          [
+            7.289997339248657,
+            46.64141517022494
+          ],
+          [
+            7.290984392166138,
+            46.64093637728407
+          ],
+          [
+            7.2903406620025635,
+            46.63975779199357
+          ],
+          [
+            7.288237810134888,
+            46.63639868306555
+          ],
+          [
+            7.287894487380981,
+            46.63566937528652
+          ],
+          [
+            7.287282943725586,
+            46.63449804222306
+          ],
+          [
+            7.28568434715271,
+            46.63331931669172
+          ],
+          [
+            7.285212278366088,
+            46.633031998451784
+          ],
+          [
+            7.288269996643066,
+            46.63336351936246
+          ],
+          [
+            7.289332151412963,
+            46.63415179426135
+          ],
+          [
+            7.289707660675049,
+            46.63493269078369
+          ],
+          [
+            7.2903192043304434,
+            46.6355809736757
+          ],
+          [
+            7.292228937149048,
+            46.63606718074809
+          ],
+          [
+            7.295769453048706,
+            46.63643551653101
+          ],
+          [
+            7.298913002014161,
+            46.63662705014729
+          ],
+          [
+            7.301187515258789,
+            46.63690698267466
+          ],
+          [
+            7.302560806274413,
+            46.637496309577735
+          ],
+          [
+            7.303762435913087,
+            46.63950733931189
+          ],
+          [
+            7.3030006885528564,
+            46.64092164512641
+          ],
+          [
+            7.304888963699341,
+            46.64222542554928
+          ],
+          [
+            7.306809425354004,
+            46.643536540278035
+          ],
+          [
+            7.308526039123534,
+            46.64415525754159
+          ],
+          [
+            7.311004400253296,
+            46.64586405893754
+          ],
+          [
+            7.311476469039916,
+            46.646769996403606
+          ],
+          [
+            7.312281131744385,
+            46.647094067910274
+          ],
+          [
+            7.3148882389068595,
+            46.6492299451818
+          ],
+          [
+            7.315306663513183,
+            46.649436163350245
+          ],
+          [
+            7.313600778579712,
+            46.64959819135961
+          ],
+          [
+            7.313246726989745,
+            46.651741334358114
+          ],
+          [
+            7.313343286514282,
+            46.653273150849884
+          ],
+          [
+            7.315049171447754,
+            46.65537196357214
+          ],
+          [
+            7.315177917480468,
+            46.657566424498754
+          ],
+          [
+            7.315864562988281,
+            46.659554617569185
+          ],
+          [
+            7.316690683364868,
+            46.66212443288446
+          ],
+          [
+            7.315596342086791,
+            46.66304482413421
+          ],
+          [
+            7.313933372497559,
+            46.66312581781408
+          ],
+          [
+            7.308901548385621,
+            46.66247786497757
+          ],
+          [
+            7.308257818222046,
+            46.663545510393604
+          ],
+          [
+            7.307066917419434,
+            46.66329516784354
+          ],
+          [
+            7.307463884353639,
+            46.66284602095098
+          ],
+          [
+            7.303526401519775,
+            46.66213179607663
+          ],
+          [
+            7.29966402053833,
+            46.664016740284204
+          ],
+          [
+            7.2995567321777335,
+            46.66124820585583
+          ],
+          [
+            7.298719882965088,
+            46.66126293247785
+          ],
+          [
+            7.297646999359131,
+            46.66420817625397
+          ],
+          [
+            7.293183803558349,
+            46.664605771871244
+          ],
+          [
+            7.294149398803711,
+            46.66632865242217
+          ],
+          [
+            7.295973300933838,
+            46.66650535501501
+          ],
+          [
+            7.293848991394042,
+            46.66727105957596
+          ],
+          [
+            7.295136451721191,
+            46.668242899745145
+          ],
+          [
+            7.292046546936036,
+            46.670039285572436
+          ],
+          [
+            7.290630340576172,
+            46.67104052389172
+          ],
+          [
+            7.286617755889892,
+            46.6702895968911
+          ],
+          [
+            7.284665107727051,
+            46.67079021605075
+          ],
+          [
+            7.283570766448974,
+            46.67065769966565
+          ],
+          [
+            7.28018045425415,
+            46.66849321938305
+          ],
+          [
+            7.274944782257079,
+            46.666785132939026
+          ],
+          [
+            7.272841930389403,
+            46.66335407207725
+          ]
         ]
       }
     }
