@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Bergeronnette grise",
+        "description": "<b>Date:</b> 07.08.2016 08:28<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132214\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112271,
+          46.718111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic épeiche",
+        "description": "<b>Date:</b> 07.08.2016 08:29<br><b>Specie:</b> Pic épeiche(<i>Dendrocopos major</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132215\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.111729,
+          46.718425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Mouette rieuse",
+        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mouette rieuse(<i>Larus ridibundus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132216\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112321,
+          46.716962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Goéland leucophée",
+        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Goéland leucophée(<i>Larus michahellis</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132218\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.111369,
+          46.716931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Mésange bleue",
+        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132219\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110647,
+          46.71857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Mésange nonnette",
+        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange nonnette(<i>Parus palustris</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132220\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110647,
+          46.71857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 08:30<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132221\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110647,
+          46.71857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Troglodyte mignon",
+        "description": "<b>Date:</b> 07.08.2016 08:31<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132222\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112485,
+          46.718072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~80 Hirondelle de rochers",
+        "description": "<b>Date:</b> 07.08.2016 08:34<br><b>Specie:</b> Hirondelle de rochers(<i>Ptyonoprogne rupestris</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> ~80ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132223\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112485,
+          46.718072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Cincle plongeur",
+        "description": "<b>Date:</b> 07.08.2016 08:40<br><b>Specie:</b> Cincle plongeur(<i>Cinclus cinclus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 682m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132224\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.113128,
+          46.718278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pinson des arbres",
+        "description": "<b>Date:</b> 07.08.2016 08:40<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 674m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132225\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112298,
+          46.719271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Sittelle torchepot",
+        "description": "<b>Date:</b> 07.08.2016 08:44<br><b>Specie:</b> Sittelle torchepot(<i>Sitta europaea</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 675m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132226\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110728,
+          46.718335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Mésange à longue queue",
+        "description": "<b>Date:</b> 07.08.2016 08:44<br><b>Specie:</b> Mésange à longue queue(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 675m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132227\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110728,
+          46.718335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Merle noir",
+        "description": "<b>Date:</b> 07.08.2016 <br><b>Specie:</b> Merle noir(<i>Turdus merula</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132231\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1121667389715,
+          46.717373551768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Corneille noire",
+        "description": "<b>Date:</b> 07.08.2016 <br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Barrage de Rossens / Rossens (FR) - 673m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12132233\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1121667389715,
+          46.717373551768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Hirondelle de fenêtre",
+        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Hirondelle de fenêtre(<i>Delichon urbicum</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1059m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134224\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27266,
+          46.663405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Chardonneret élégant",
+        "description": "<b>Date:</b> 07.08.2016 09:30<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1064m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134225\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272301,
+          46.663849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Mésange huppée",
+        "description": "<b>Date:</b> 07.08.2016 10:02<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1208m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134226\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27797,
+          46.65298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pinson des arbres",
+        "description": "<b>Date:</b> 07.08.2016 09:31<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1064m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134227\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272301,
+          46.663849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougegorge familier",
+        "description": "<b>Date:</b> 07.08.2016 10:03<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1208m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134228\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27797,
+          46.65298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Moineau domestique",
+        "description": "<b>Date:</b> 07.08.2016 09:31<br><b>Specie:</b> Moineau domestique(<i>Passer domesticus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134229\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272559,
+          46.662906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 10:11<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1314m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134230\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.274687,
+          46.650582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Chardonneret élégant",
+        "description": "<b>Date:</b> 07.08.2016 10:56<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1492m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134231\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27686,
+          46.646951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougegorge familier",
+        "description": "<b>Date:</b> 07.08.2016 10:11<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1314m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134232\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.274687,
+          46.650582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grive litorne",
+        "description": "<b>Date:</b> 07.08.2016 09:33<br><b>Specie:</b> Grive litorne(<i>Turdus pilaris</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134233\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272559,
+          46.662906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Mésange boréale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 07.08.2016 10:13<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1353m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134234\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272265,
+          46.65021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Sizerin cabaret",
+        "description": "<b>Date:</b> 07.08.2016 09:34<br><b>Specie:</b> Sizerin cabaret(<i>Carduelis cabaret</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134235\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272559,
+          46.662906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 10:56<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1492m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134236\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27686,
+          46.646951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Grive draine",
+        "description": "<b>Date:</b> 07.08.2016 09:35<br><b>Specie:</b> Grive draine(<i>Turdus viscivorus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134237\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272559,
+          46.662906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Troglodyte mignon",
+        "description": "<b>Date:</b> 07.08.2016 10:14<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1353m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134238\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272265,
+          46.65021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Venturon montagnard",
+        "description": "<b>Date:</b> 07.08.2016 11:01<br><b>Specie:</b> Venturon montagnard(<i>Serinus citrinella</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1465m<br><b>Observation:</b> =3ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134239\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.278976,
+          46.648621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic vert",
+        "description": "<b>Date:</b> 07.08.2016 09:35<br><b>Specie:</b> Pic vert(<i>Picus viridis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134240\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272559,
+          46.662906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Mésange bleue",
+        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> Mésange bleue(<i>Parus caeruleus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1324m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134241\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273871,
+          46.650187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Chocard à bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 11:48<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1574m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134242\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.283786,
+          46.634163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette grise",
+        "description": "<b>Date:</b> 07.08.2016 09:36<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1058m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134243\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27254,
+          46.662354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Troglodyte mignon",
+        "description": "<b>Date:</b> 07.08.2016 11:01<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1465m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134244\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.278976,
+          46.648621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon crécerelle",
+        "description": "<b>Date:</b> 07.08.2016 10:21<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1320m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134245\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.274057,
+          46.650385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette grise",
+        "description": "<b>Date:</b> 07.08.2016 11:53<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134246\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.284647,
+          46.633154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Accenteur mouchet",
+        "description": "<b>Date:</b> 07.08.2016 13:00<br><b>Specie:</b> Accenteur mouchet(<i>Prunella modularis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1836m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134247\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.299275,
+          46.636876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic vert",
+        "description": "<b>Date:</b> 07.08.2016 09:48<br><b>Specie:</b> Pic vert(<i>Picus viridis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134248\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273894,
+          46.658114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Vautour fauve",
+        "description": "<b>Date:</b> 07.08.2016 11:06<br><b>Specie:</b> Vautour fauve(<i>Gyps fulvus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1964m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134249\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.309571,
+          46.645283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Buse variable",
+        "description": "<b>Date:</b> 07.08.2016 10:22<br><b>Specie:</b> Buse variable(<i>Buteo buteo</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1331m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134250\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273771,
+          46.649202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 11:53<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134251\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.284647,
+          46.633154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134252\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273894,
+          46.658114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Chocard à bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 13:26<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2028m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134253\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.303173,
+          46.639798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Fauvette à tête noire",
+        "description": "<b>Date:</b> 07.08.2016 10:27<br><b>Specie:</b> Fauvette à tête noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1371m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134254\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.269869,
+          46.649489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Fauvette à tête noire",
+        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Fauvette à tête noire(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1138m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134255\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273894,
+          46.658114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pouillot véloce",
+        "description": "<b>Date:</b> 07.08.2016 11:06<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1458m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134256\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282773,
+          46.648516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Faucon crécerelle",
+        "description": "<b>Date:</b> 07.08.2016 15:07<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1651m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134257\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.311202,
+          46.657611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 13:26<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2028m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134258\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.303173,
+          46.639798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Tarin des aulnes",
+        "description": "<b>Date:</b> 07.08.2016 10:34<br><b>Specie:</b> Tarin des aulnes(<i>Carduelis spinus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134259\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270341,
+          46.644402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Corneille noire",
+        "description": "<b>Date:</b> 07.08.2016 09:49<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1128m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134260\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272798,
+          46.659193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 11:53<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134261\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.284647,
+          46.633154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Tarier des prés",
+        "description": "<b>Date:</b> 07.08.2016 15:25<br><b>Specie:</b> Tarier des prés(<i>Saxicola rubetra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1501m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134262\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.308478,
+          46.662508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Venturon montagnard",
+        "description": "<b>Date:</b> 07.08.2016 09:50<br><b>Specie:</b> Venturon montagnard(<i>Serinus citrinella</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1128m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134263\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273298,
+          46.658851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Chardonneret élégant",
+        "description": "<b>Date:</b> 07.08.2016 10:34<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134264\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270341,
+          46.644402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Mésange huppée",
+        "description": "<b>Date:</b> 07.08.2016 11:09<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1410m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134265\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285197,
+          46.648215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 11:54<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1563m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134266\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.284647,
+          46.633154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 13:36<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1888m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134267\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.302916,
+          46.643738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 15:25<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1501m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134268\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.308478,
+          46.662508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Roitelet à triple bandeau",
+        "description": "<b>Date:</b> 07.08.2016 09:56<br><b>Specie:</b> Roitelet à triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1204m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134269\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.277666,
+          46.655285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pic noir",
+        "description": "<b>Date:</b> 07.08.2016 10:35<br><b>Specie:</b> Pic noir(<i>Dryocopus martius</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134270\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270341,
+          46.644402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougegorge familier",
+        "description": "<b>Date:</b> 07.08.2016 11:09<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1410m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134271\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285197,
+          46.648215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Pinson des arbres",
+        "description": "<b>Date:</b> 07.08.2016 09:57<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1204m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134272\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.277666,
+          46.655285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 13:55<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1985m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134273\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.309977,
+          46.644525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Bergeronnette grise",
+        "description": "<b>Date:</b> 07.08.2016 15:26<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1501m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134274\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.308478,
+          46.662508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Hirondelle rustique",
+        "description": "<b>Date:</b> 07.08.2016 12:01<br><b>Specie:</b> Hirondelle rustique(<i>Hirundo rustica</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1553m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134275\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285912,
+          46.633439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 10:35<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1397m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134276\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270341,
+          46.644402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pinson des arbres",
+        "description": "<b>Date:</b> 07.08.2016 11:35<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134277\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289393,
+          46.641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">4 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 10:38<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1401m<br><b>Observation:</b> >4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134278\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270814,
+          46.643783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Linotte mélodieuse",
+        "description": "<b>Date:</b> 07.08.2016 13:56<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1985m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134279\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.309977,
+          46.644525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=6 Vautour fauve",
+        "description": "<b>Date:</b> 07.08.2016 12:01<br><b>Specie:</b> Vautour fauve(<i>Gyps fulvus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1650m<br><b>Observation:</b> =6ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134280\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289159,
+          46.630264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 15:54<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1066m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134281\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.291943,
+          46.670215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 11:36<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134282\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289393,
+          46.641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette des ruisseaux",
+        "description": "<b>Date:</b> 07.08.2016 10:56<br><b>Specie:</b> Bergeronnette des ruisseaux(<i>Motacilla cinerea</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1492m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134283\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27686,
+          46.646951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Venturon montagnard",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Venturon montagnard(<i>Serinus citrinella</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134284\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Linotte mélodieuse",
+        "description": "<b>Date:</b> 07.08.2016 14:03<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134285\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.310273,
+          46.645254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 11:38<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134286\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289393,
+          46.641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Chardonneret élégant",
+        "description": "<b>Date:</b> 07.08.2016 15:54<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1066m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134287\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.291943,
+          46.670215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Sizerin cabaret",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Sizerin cabaret(<i>Carduelis cabaret</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134288\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 14:03<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134289\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.310273,
+          46.645254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Mésange charbonnière",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Mésange charbonnière(<i>Parus major</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134290\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 07.08.2016 11:38<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134291\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289393,
+          46.641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Moineau domestique",
+        "description": "<b>Date:</b> 07.08.2016 15:58<br><b>Specie:</b> Moineau domestique(<i>Passer domesticus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134292\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.286247,
+          46.670024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 14:05<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134293\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.310273,
+          46.645254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Mésange noire",
+        "description": "<b>Date:</b> 07.08.2016 12:26<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134294\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bec-croisé des sapins",
+        "description": "<b>Date:</b> 07.08.2016 12:38<br><b>Specie:</b> Bec-croisé des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134295\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 14:05<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1978m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134296\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.310273,
+          46.645254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Chardonneret élégant",
+        "description": "<b>Date:</b> 07.08.2016 11:38<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1435m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134297\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289393,
+          46.641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougegorge familier",
+        "description": "<b>Date:</b> 07.08.2016 12:39<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1595m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134298\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289493,
+          46.634399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">4 Vautour fauve",
+        "description": "<b>Date:</b> 07.08.2016 14:07<br><b>Specie:</b> Vautour fauve(<i>Gyps fulvus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2147m<br><b>Observation:</b> >4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134299\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.324714,
+          46.638154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 Canard colvert",
+        "description": "<b>Date:</b> 07.08.2016 16:01<br><b>Specie:</b> Canard colvert(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> ~30ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134300\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285668,
+          46.670187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~3 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 11:44<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1490m<br><b>Observation:</b> ~3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134301\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.288364,
+          46.637203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Rougequeue noir",
+        "description": "<b>Date:</b> 07.08.2016 12:42<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1621m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134302\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.292014,
+          46.635976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Corneille noire",
+        "description": "<b>Date:</b> 07.08.2016 11:46<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1490m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134303\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.288364,
+          46.637203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 12:42<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1621m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134304\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.292014,
+          46.635976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Faucon crécerelle",
+        "description": "<b>Date:</b> 07.08.2016 12:51<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1696m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134305\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.295577,
+          46.636446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Bouvreuil pivoine",
+        "description": "<b>Date:</b> 07.08.2016 11:48<br><b>Specie:</b> Bouvreuil pivoine(<i>Pyrrhula pyrrhula</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1586m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134306\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282749,
+          46.635379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Foulque macroule",
+        "description": "<b>Date:</b> 07.08.2016 16:01<br><b>Specie:</b> Foulque macroule(<i>Fulica atra</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134307\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285668,
+          46.670187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 14:08<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2147m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134308\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.324714,
+          46.638154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Grèbe huppé",
+        "description": "<b>Date:</b> 07.08.2016 16:01<br><b>Specie:</b> Grèbe huppé(<i>Podiceps cristatus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134309\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285668,
+          46.670187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">6 Grand Corbeau",
+        "description": "<b>Date:</b> 07.08.2016 14:37<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2055m<br><b>Observation:</b> >6ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134310\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.315344,
+          46.648908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Chocard à bec jaune",
+        "description": "<b>Date:</b> 07.08.2016 14:37<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 2055m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134311\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.315344,
+          46.648908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Hirondelle rustique",
+        "description": "<b>Date:</b> 07.08.2016 16:03<br><b>Specie:</b> Hirondelle rustique(<i>Hirundo rustica</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1042m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134312\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285668,
+          46.670187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Milan royal",
+        "description": "<b>Date:</b> 07.08.2016 14:53<br><b>Specie:</b> Milan royal(<i>Milvus milvus</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1897m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134313\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312969,
+          46.651472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pipit spioncelle",
+        "description": "<b>Date:</b> 07.08.2016 15:05<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Jaun [588/166] / Jaun (FR) - 1769m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12134314\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.314706,
+          46.657483
+        ]
+      }
+    }
+  ]
+}
