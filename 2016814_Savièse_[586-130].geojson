@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">60 Chocard à bec jaune",
+        "description": "<b>Date:</b> 14.08.2016 10:24<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2246m<br><b>Observation:</b> >60ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190328\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285505,
+          46.331414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 10:24<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2246m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190329\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285505,
+          46.331414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 10:24<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2241m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190330\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.285183,
+          46.330729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 10:24<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2289m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190331\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.276682,
+          46.329066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 14.08.2016 10:41<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2298m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190332\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273759,
+          46.329601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 10:41<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2298m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190333\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.273759,
+          46.329601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">6 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 10:25<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2289m<br><b>Observation:</b> >6ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190334\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.276682,
+          46.329066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 10:41<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2309m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190335\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.271829,
+          46.330163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 10:33<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2254m<br><b>Observation:</b> =3ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190336\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.278735,
+          46.333573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 10:52<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2302m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190337\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26867,
+          46.329195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 10:33<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2254m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190338\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.278735,
+          46.333573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 10:53<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2301m<br><b>Observation:</b> ~30ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190339\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.268985,
+          46.327219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grand Corbeau",
+        "description": "<b>Date:</b> 14.08.2016 12:08<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2559m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190340\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.243821,
+          46.31324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Épervier d'Europe",
+        "description": "<b>Date:</b> 14.08.2016 12:31<br><b>Specie:</b> Épervier d'Europe(<i>Accipiter nisus</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2657m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190341\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.236661,
+          46.308718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Faucon crécerelle",
+        "description": "<b>Date:</b> 14.08.2016 12:31<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2657m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190342\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.236661,
+          46.308718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grand Corbeau",
+        "description": "<b>Date:</b> 14.08.2016 12:31<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2657m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190343\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.236661,
+          46.308718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Linotte mélodieuse",
+        "description": "<b>Date:</b> 14.08.2016 13:23<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2657m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190345\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.236661,
+          46.308718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Aigle royal",
+        "description": "<b>Date:</b> 14.08.2016 14:31<br><b>Specie:</b> Aigle royal(<i>Aquila chrysaetos</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2382m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190346\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.255882,
+          46.32641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 14.08.2016 15:00<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2293m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190347\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272248,
+          46.331232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 14.08.2016 15:00<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2293m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190348\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272248,
+          46.331232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 15:00<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2293m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190349\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.272248,
+          46.331232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~15 Pipit spioncelle",
+        "description": "<b>Date:</b> 14.08.2016 15:09<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Savièse [586/130] / Savièse (VS) - 2239m<br><b>Observation:</b> ~15ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190350\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.281519,
+          46.333884
+        ]
+      }
+    }
+  ]
+}
