@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Épervier d'Europe",
+        "description": "<b>Date:</b> 13.08.2016 14:15<br><b>Specie:</b> Épervier d'Europe(<i>Accipiter nisus</i>)<br><b>Place:</b> Saillon [580/113] / Saillon (VS) - 483m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190319\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.187084,
+          46.174006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Martinet à ventre blanc",
+        "description": "<b>Date:</b> 13.08.2016 15:34<br><b>Specie:</b> Martinet à ventre blanc(<i>Apus melba</i>)<br><b>Place:</b> L'Infloria / Savièse (VS) - 1830m<br><b>Observation:</b> ~10ind. (atlas code:1) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190320\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.326142,
+          46.309612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pipit spioncelle",
+        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2250m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190321\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.286298,
+          46.331751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Faucon crécerelle",
+        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2283m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190322\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.289666,
+          46.330674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Chocard à bec jaune",
+        "description": "<b>Date:</b> 13.08.2016 16:15<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2475m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190323\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312844,
+          46.323465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grand Corbeau",
+        "description": "<b>Date:</b> 13.08.2016 17:08<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2798m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190324\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.314633,
+          46.338954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougequeue noir",
+        "description": "<b>Date:</b> 13.08.2016 18:46<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2779m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190325\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.314782,
+          46.338166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pipit spioncelle",
+        "description": "<b>Date:</b> 13.08.2016 20:20<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2302m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190326\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2906,
+          46.33096
+        ]
+      }
+    }
+  ]
+}
