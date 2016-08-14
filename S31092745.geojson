@@ -4,25 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=1 Épervier d'Europe",
-        "description": "<b>Date:</b> 13.08.2016 14:15<br><b>Specie:</b> Épervier d'Europe(<i>Accipiter nisus</i>)<br><b>Place:</b> Saillon [580/113] / Saillon (VS) - 483m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190319\">ornitho.ch</a>",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-color": "7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.187084,
-          46.174006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "~10 Martinet à ventre blanc",
-        "description": "<b>Date:</b> 13.08.2016 15:34<br><b>Specie:</b> Martinet à ventre blanc(<i>Apus melba</i>)<br><b>Place:</b> L'Infloria / Savièse (VS) - 1830m<br><b>Observation:</b> ~10ind. (atlas code:1) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190320\">ornitho.ch</a>",
+        "title": "~10 Martinet Ã  ventre blanc",
+        "description": "<b>Date:</b> 13.08.2016 15:34<br><b>Specie:</b> Martinet Ã  ventre blanc(<i>Apus melba</i>)<br><b>Place:</b> L'Infloria / SaviÃ¨se (VS) - 1830m<br><b>Observation:</b> ~10ind. (atlas code:1) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190320\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -39,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "title": ">1 Pipit spioncelle",
-        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2250m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190321\">ornitho.ch</a>",
+        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2250m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190321\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -55,8 +38,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "=2 Faucon crécerelle",
-        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Faucon crécerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2283m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190322\">ornitho.ch</a>",
+        "title": "=2 Faucon crÃ©cerelle",
+        "description": "<b>Date:</b> 13.08.2016 16:14<br><b>Specie:</b> Faucon crÃ©cerelle(<i>Falco tinnunculus</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2283m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190322\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -72,8 +55,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "~100 Chocard à bec jaune",
-        "description": "<b>Date:</b> 13.08.2016 16:15<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2475m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190323\">ornitho.ch</a>",
+        "title": "~100 Chocard Ã  bec jaune",
+        "description": "<b>Date:</b> 13.08.2016 16:15<br><b>Specie:</b> Chocard Ã  bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2475m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190323\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -90,7 +73,7 @@
       "type": "Feature",
       "properties": {
         "title": "=1 Grand Corbeau",
-        "description": "<b>Date:</b> 13.08.2016 17:08<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2798m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190324\">ornitho.ch</a>",
+        "description": "<b>Date:</b> 13.08.2016 17:08<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2798m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190324\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -107,7 +90,7 @@
       "type": "Feature",
       "properties": {
         "title": "=1 Rougequeue noir",
-        "description": "<b>Date:</b> 13.08.2016 18:46<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2779m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190325\">ornitho.ch</a>",
+        "description": "<b>Date:</b> 13.08.2016 18:46<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2779m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190325\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -124,7 +107,7 @@
       "type": "Feature",
       "properties": {
         "title": ">1 Pipit spioncelle",
-        "description": "<b>Date:</b> 13.08.2016 20:20<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Arête de l'Arpille / Savièse (VS) - 2302m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190326\">ornitho.ch</a>",
+        "description": "<b>Date:</b> 13.08.2016 20:20<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> ArÃªte de l'Arpille / SaviÃ¨se (VS) - 2302m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12190326\">ornitho.ch</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -134,6 +117,59 @@
         "coordinates": [
           7.2906,
           46.33096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.286252975463868,
+            46.331846897207164
+          ],
+          [
+            7.290973663330077,
+            46.33075049457995
+          ],
+          [
+            7.297496795654297,
+            46.331402412304605
+          ],
+          [
+            7.305264472961426,
+            46.332558065537626
+          ],
+          [
+            7.310500144958495,
+            46.3345729922548
+          ],
+          [
+            7.3122167587280265,
+            46.335787838665986
+          ],
+          [
+            7.314534187316895,
+            46.337802646386145
+          ],
+          [
+            7.315607070922852,
+            46.33919519068755
+          ],
+          [
+            7.315092086791991,
+            46.34094322801232
+          ],
+          [
+            7.315220832824706,
+            46.342543077598485
+          ],
+          [
+            7.315306663513183,
+            46.34384662412936
+          ]
         ]
       }
     }
