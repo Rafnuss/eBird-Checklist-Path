@@ -1,0 +1,957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Roitelet huppé",
+        "description": "<b>Date:</b> 21.08.2016 15:56<br><b>Specie:</b> Roitelet huppé(<i>Regulus regulus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1332m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217426\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26736,
+          46.841912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pouillot fitis",
+        "description": "<b>Date:</b> 21.08.2016 16:03<br><b>Specie:</b> Pouillot fitis(<i>Phylloscopus trochilus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1277m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217427\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26991,
+          46.8395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=6 Pluvier guignard",
+        "description": "<b>Date:</b> 21.08.2016 13:14<br><b>Specie:</b> Pluvier guignard(<i>Charadrius morinellus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2632m<br><b>Observation:</b> =6ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217428\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.263401,
+          46.880768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pipit rousseline",
+        "description": "<b>Date:</b> 21.08.2016 13:29<br><b>Specie:</b> Pipit rousseline(<i>Anthus campestris</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2629m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217429\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.264662,
+          46.87901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette grise",
+        "description": "<b>Date:</b> 21.08.2016 08:31<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1968m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217430\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23499,
+          46.855625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Mésange huppée",
+        "description": "<b>Date:</b> 21.08.2016 16:03<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1273m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217431\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.269854,
+          46.840072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Mésange noire",
+        "description": "<b>Date:</b> 21.08.2016 16:03<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1273m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217432\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.269854,
+          46.840072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Tarier des prés",
+        "description": "<b>Date:</b> 21.08.2016 08:33<br><b>Specie:</b> Tarier des prés(<i>Saxicola rubetra</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1958m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217433\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236316,
+          46.855978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Accenteur alpin",
+        "description": "<b>Date:</b> 21.08.2016 09:25<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2094m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217434\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239245,
+          46.871914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Geai des chênes",
+        "description": "<b>Date:</b> 21.08.2016 16:13<br><b>Specie:</b> Geai des chênes(<i>Garrulus glandarius</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1262m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217435\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270329,
+          46.832426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Rougequeue noir",
+        "description": "<b>Date:</b> 21.08.2016 08:35<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1955m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217436\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236837,
+          46.85615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=11 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 09:26<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2097m<br><b>Observation:</b> =11ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217438\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239969,
+          46.871388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pouillot véloce",
+        "description": "<b>Date:</b> 21.08.2016 16:19<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1235m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217439\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.271912,
+          46.830741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.08.2016 08:35<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1955m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217440\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236837,
+          46.85615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 13:57<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2226m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217441\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.263654,
+          46.872405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Roitelet à triple bandeau",
+        "description": "<b>Date:</b> 21.08.2016 16:30<br><b>Specie:</b> Roitelet à triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1200m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217442\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.273757,
+          46.828496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 10:13<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2413m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217443\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.250597,
+          46.878045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">10 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 08:41<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1968m<br><b>Observation:</b> >10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217444\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2358,
+          46.857568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Linotte mélodieuse",
+        "description": "<b>Date:</b> 21.08.2016 14:30<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1986m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217445\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266058,
+          46.865884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Roitelet huppé",
+        "description": "<b>Date:</b> 21.08.2016 16:31<br><b>Specie:</b> Roitelet huppé(<i>Regulus regulus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1200m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217446\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.273757,
+          46.828496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Sizerin cabaret",
+        "description": "<b>Date:</b> 21.08.2016 08:42<br><b>Specie:</b> Sizerin cabaret(<i>Carduelis cabaret</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1965m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217447\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237696,
+          46.858028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=12 Accenteur alpin",
+        "description": "<b>Date:</b> 21.08.2016 10:43<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2633m<br><b>Observation:</b> =12ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217448\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.260034,
+          46.879911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Buse variable",
+        "description": "<b>Date:</b> 21.08.2016 16:36<br><b>Specie:</b> Buse variable(<i>Buteo buteo</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1134m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217449\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.274495,
+          46.825483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Venturon montagnard",
+        "description": "<b>Date:</b> 21.08.2016 14:37<br><b>Specie:</b> Venturon montagnard(<i>Serinus citrinella</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1940m<br><b>Observation:</b> =1ind. (atlas code:1) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217450\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26764,
+          46.86359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 10:44<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2633m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217451\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.260034,
+          46.879911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Accenteur mouchet",
+        "description": "<b>Date:</b> 21.08.2016 08:44<br><b>Specie:</b> Accenteur mouchet(<i>Prunella modularis</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1965m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217453\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237696,
+          46.858028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pipit des arbres",
+        "description": "<b>Date:</b> 21.08.2016 14:59<br><b>Specie:</b> Pipit des arbres(<i>Anthus trivialis</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1732m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217454\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.267244,
+          46.857607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Niverolle alpine",
+        "description": "<b>Date:</b> 21.08.2016 10:53<br><b>Specie:</b> Niverolle alpine(<i>Montifringilla nivalis</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2646m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217455\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.259678,
+          46.880913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 21.08.2016 15:06<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1609m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217456\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266818,
+          46.854085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">36 Chocard à bec jaune",
+        "description": "<b>Date:</b> 21.08.2016 08:47<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2074m<br><b>Observation:</b> >36ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217457\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237478,
+          46.861575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=17 Lagopède alpin",
+        "description": "<b>Date:</b> 21.08.2016 11:30<br><b>Specie:</b> Lagopède alpin(<i>Lagopus muta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2625m<br><b>Observation:</b> =17ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217458\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265802,
+          46.879483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 21.08.2016 08:49<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1969m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217459\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239387,
+          46.858695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Corneille noire",
+        "description": "<b>Date:</b> 21.08.2016 15:06<br><b>Specie:</b> Corneille noire(<i>Corvus corone</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1609m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217460\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266818,
+          46.854085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Rougequeue noir",
+        "description": "<b>Date:</b> 21.08.2016 11:34<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2623m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217461\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265951,
+          46.87941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Mésange huppée",
+        "description": "<b>Date:</b> 21.08.2016 15:16<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1516m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217462\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266137,
+          46.851155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">6 Rougequeue noir",
+        "description": "<b>Date:</b> 21.08.2016 09:01<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2054m<br><b>Observation:</b> >6ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217463\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.238814,
+          46.864456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.08.2016 11:40<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2644m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217464\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.267482,
+          46.879662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Mésange noire",
+        "description": "<b>Date:</b> 21.08.2016 15:17<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1516m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217465\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266137,
+          46.851155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Tarier des prés",
+        "description": "<b>Date:</b> 21.08.2016 09:01<br><b>Specie:</b> Tarier des prés(<i>Saxicola rubetra</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2028m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217466\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.240136,
+          46.864335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Accenteur alpin",
+        "description": "<b>Date:</b> 21.08.2016 11:40<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2639m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217467\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.268645,
+          46.879833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Bec-croisé des sapins",
+        "description": "<b>Date:</b> 21.08.2016 15:18<br><b>Specie:</b> Bec-croisé des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1444m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217468\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.266229,
+          46.848985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Martinet à ventre blanc",
+        "description": "<b>Date:</b> 21.08.2016 11:48<br><b>Specie:</b> Martinet à ventre blanc(<i>Apus melba</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2639m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217469\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.268645,
+          46.879833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Linotte mélodieuse",
+        "description": "<b>Date:</b> 21.08.2016 09:02<br><b>Specie:</b> Linotte mélodieuse(<i>Carduelis cannabina</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2019m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217470\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.240286,
+          46.863902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Chardonneret élégant",
+        "description": "<b>Date:</b> 21.08.2016 15:25<br><b>Specie:</b> Chardonneret élégant(<i>Carduelis carduelis</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1417m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217472\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26617,
+          46.84813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Traquet motteux",
+        "description": "<b>Date:</b> 21.08.2016 09:06<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2045m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217473\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239673,
+          46.865224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Rougequeue noir",
+        "description": "<b>Date:</b> 21.08.2016 09:07<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2045m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217474\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239673,
+          46.865224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Rougequeue noir",
+        "description": "<b>Date:</b> 21.08.2016 15:31<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1458m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217475\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26965,
+          46.848645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Pipit spioncelle",
+        "description": "<b>Date:</b> 21.08.2016 09:07<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2068m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217476\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.238744,
+          46.865312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bergeronnette grise",
+        "description": "<b>Date:</b> 21.08.2016 09:17<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2090m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217478\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23999,
+          46.868001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Traquet motteux",
+        "description": "<b>Date:</b> 21.08.2016 12:15<br><b>Specie:</b> Traquet motteux(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2614m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217479\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.274812,
+          46.878702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Tarier des prés",
+        "description": "<b>Date:</b> 21.08.2016 15:31<br><b>Specie:</b> Tarier des prés(<i>Saxicola rubetra</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1458m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217480\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26965,
+          46.848645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Accenteur alpin",
+        "description": "<b>Date:</b> 21.08.2016 12:17<br><b>Specie:</b> Accenteur alpin(<i>Prunella collaris</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2614m<br><b>Observation:</b> =2ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217481\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.274812,
+          46.878702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Martinet à ventre blanc",
+        "description": "<b>Date:</b> 21.08.2016 12:22<br><b>Specie:</b> Martinet à ventre blanc(<i>Apus melba</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2628m<br><b>Observation:</b> =1ind. (atlas code:2) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217482\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27614,
+          46.879437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Pinson des arbres",
+        "description": "<b>Date:</b> 21.08.2016 15:36<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1424m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217483\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.267161,
+          46.847471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Pouillot véloce",
+        "description": "<b>Date:</b> 21.08.2016 15:48<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 1435m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217484\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.267314,
+          46.84779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Chocard à bec jaune",
+        "description": "<b>Date:</b> 21.08.2016 13:04<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Flims [738/191] / Flims (GR) - 2635m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12217485\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.268318,
+          46.879248
+        ]
+      }
+    }
+  ]
+}
