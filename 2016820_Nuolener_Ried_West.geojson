@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Common Snipe",
+        "description": "<b>Date:</b> 08.20.2016 16:07<br><b>Specie:</b> Common Snipe(<i>Gallinago gallinago</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210310\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.879635,
+          47.206896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Barn Swallow",
+        "description": "<b>Date:</b> 08.20.2016 15:14<br><b>Specie:</b> Barn Swallow(<i>Hirundo rustica</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210311\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.865791,
+          47.203631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 European Goldfinch",
+        "description": "<b>Date:</b> 08.20.2016 16:12<br><b>Specie:</b> European Goldfinch(<i>Carduelis carduelis</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210312\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.880924,
+          47.206701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=12 Northern Lapwing",
+        "description": "<b>Date:</b> 08.20.2016 16:23<br><b>Specie:</b> Northern Lapwing(<i>Vanellus vanellus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> =12ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210313\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.882838,
+          47.204155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Sand Martin",
+        "description": "<b>Date:</b> 08.20.2016 15:14<br><b>Specie:</b> Sand Martin(<i>Riparia riparia</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210314\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.865791,
+          47.203631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Black-necked Grebe",
+        "description": "<b>Date:</b> 08.20.2016 15:17<br><b>Specie:</b> Black-necked Grebe(<i>Podiceps nigricollis</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210315\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87549,
+          47.206138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Fieldfare",
+        "description": "<b>Date:</b> 08.20.2016 16:28<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210316\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.884592,
+          47.204484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 European Goldfinch",
+        "description": "<b>Date:</b> 08.20.2016 15:14<br><b>Specie:</b> European Goldfinch(<i>Carduelis carduelis</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210317\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.865791,
+          47.203631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 15:18<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210318\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87549,
+          47.206138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Common Starling",
+        "description": "<b>Date:</b> 08.20.2016 15:15<br><b>Specie:</b> Common Starling(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 405m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210319\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.867121,
+          47.203456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 Eurasian Tree Sparrow",
+        "description": "<b>Date:</b> 08.20.2016 16:28<br><b>Specie:</b> Eurasian Tree Sparrow(<i>Passer montanus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> ~30ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210320\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.884592,
+          47.204484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~500 Common Starling",
+        "description": "<b>Date:</b> 08.20.2016 16:34<br><b>Specie:</b> Common Starling(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 410m<br><b>Observation:</b> ~500ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210321\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.882455,
+          47.202432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=54 Eurasian Curlew",
+        "description": "<b>Date:</b> 08.20.2016 15:15<br><b>Specie:</b> Eurasian Curlew(<i>Numenius arquata</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> =54ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210322\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.872143,
+          47.20296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~200 Great Crested Grebe",
+        "description": "<b>Date:</b> 08.20.2016 15:18<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> ~200ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210323\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87549,
+          47.206138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 16:35<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 412m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210324\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88194,
+          47.201457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grey Plover",
+        "description": "<b>Date:</b> 08.20.2016 15:15<br><b>Specie:</b> Grey Plover(<i>Pluvialis squatarola</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210325\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.872143,
+          47.20296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Carrion Crow",
+        "description": "<b>Date:</b> 08.20.2016 16:35<br><b>Specie:</b> Carrion Crow(<i>Corvus corone</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 411m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210326\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.881546,
+          47.201243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Eurasian Coot",
+        "description": "<b>Date:</b> 08.20.2016 15:18<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210327\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87549,
+          47.206138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Northern Shoveler",
+        "description": "<b>Date:</b> 08.20.2016 15:18<br><b>Specie:</b> Northern Shoveler(<i>Anas clypeata</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210328\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87549,
+          47.206138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=81 Greylag Goose",
+        "description": "<b>Date:</b> 08.20.2016 16:37<br><b>Specie:</b> Greylag Goose(<i>Anser anser</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 410m<br><b>Observation:</b> =81ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210329\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.878871,
+          47.202694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 White Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 16:39<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 409m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210330\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.878606,
+          47.200851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Common Moorhen",
+        "description": "<b>Date:</b> 08.20.2016 15:19<br><b>Specie:</b> Common Moorhen(<i>Gallinula chloropus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 404m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210331\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875533,
+          47.205351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=11 Northern Lapwing",
+        "description": "<b>Date:</b> 08.20.2016 15:15<br><b>Specie:</b> Northern Lapwing(<i>Vanellus vanellus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> =11ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210332\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.872143,
+          47.20296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 15:19<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 401m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210333\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875528,
+          47.205538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210334\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.871241,
+          47.203627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=20 Carrion Crow",
+        "description": "<b>Date:</b> 08.20.2016 15:21<br><b>Specie:</b> Carrion Crow(<i>Corvus corone</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210335\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.871377,
+          47.204736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 408m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210336\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.872882,
+          47.202172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Kestrel",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210337\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.868314,
+          47.201418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red-backed Shrike",
+        "description": "<b>Date:</b> 08.20.2016 15:22<br><b>Specie:</b> Red-backed Shrike(<i>Lanius collurio</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210338\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.877524,
+          47.204919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">150 Common Black-headed Gull",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Common Black-headed Gull(<i>Larus ridibundus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> >150ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210339\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.870141,
+          47.203674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 15:23<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210340\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87593,
+          47.204843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Great Reed Warbler",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Great Reed Warbler(<i>Acrocephalus arundinaceus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210341\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.869482,
+          47.204646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 15:29<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210342\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875215,
+          47.204907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Eurasian Reed Warbler",
+        "description": "<b>Date:</b> 08.20.2016 15:16<br><b>Specie:</b> Eurasian Reed Warbler(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210343\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.870294,
+          47.204707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Reed Bunting",
+        "description": "<b>Date:</b> 08.20.2016 15:17<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210344\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.870555,
+          47.205059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red-backed Shrike",
+        "description": "<b>Date:</b> 08.20.2016 15:29<br><b>Specie:</b> Red-backed Shrike(<i>Lanius collurio</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210345\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875215,
+          47.204907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Yellow-legged Gull",
+        "description": "<b>Date:</b> 08.20.2016 15:17<br><b>Specie:</b> Yellow-legged Gull(<i>Larus michahellis</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 407m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210346\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87062,
+          47.204324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Eurasian Teal",
+        "description": "<b>Date:</b> 08.20.2016 15:31<br><b>Specie:</b> Eurasian Teal(<i>Anas crecca</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210347\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875478,
+          47.205708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~100 Gadwall",
+        "description": "<b>Date:</b> 08.20.2016 15:17<br><b>Specie:</b> Gadwall(<i>Anas strepera</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 405m<br><b>Observation:</b> ~100ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210348\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875533,
+          47.205292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Tufted Duck",
+        "description": "<b>Date:</b> 08.20.2016 15:34<br><b>Specie:</b> Tufted Duck(<i>Aythya fuligula</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 400m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210349\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875478,
+          47.205708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Bluethroat",
+        "description": "<b>Date:</b> 08.20.2016 15:52<br><b>Specie:</b> Bluethroat(<i>Luscinia svecica</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210350\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.876829,
+          47.204931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Yellow Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 15:55<br><b>Specie:</b> Yellow Wagtail(<i>Motacilla flava</i>)<br><b>Place:</b> Nuolener Ried West / Wangen (SZ) - 406m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12210351\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.876091,
+          47.205002
+        ]
+      }
+    }
+  ]
+}

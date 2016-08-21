@@ -1,0 +1,2011 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 White Stork",
+        "description": "<b>Date:</b> 08.20.2016 06:42<br><b>Specie:</b> White Stork(<i>Ciconia ciconia</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208849\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Fieldfare",
+        "description": "<b>Date:</b> 08.20.2016 06:42<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208850\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Common Starling",
+        "description": "<b>Date:</b> 08.20.2016 06:42<br><b>Specie:</b> Common Starling(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208851\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Carrion Crow",
+        "description": "<b>Date:</b> 08.20.2016 06:42<br><b>Specie:</b> Carrion Crow(<i>Corvus corone</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208852\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=5 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 07:25<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208853\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Barn Swallow",
+        "description": "<b>Date:</b> 08.20.2016 06:42<br><b>Specie:</b> Barn Swallow(<i>Hirundo rustica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208854\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Water Rail",
+        "description": "<b>Date:</b> 08.20.2016 07:25<br><b>Specie:</b> Water Rail(<i>Rallus aquaticus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208855\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 07:13<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208856\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98643,
+          47.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Eurasian Curlew",
+        "description": "<b>Date:</b> 08.20.2016 06:43<br><b>Specie:</b> Eurasian Curlew(<i>Numenius arquata</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208857\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 07:13<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208858\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98643,
+          47.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Ringed Plover",
+        "description": "<b>Date:</b> 08.20.2016 07:29<br><b>Specie:</b> Common Ringed Plover(<i>Charadrius hiaticula</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208859\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 06:45<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208860\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Great Tit",
+        "description": "<b>Date:</b> 08.20.2016 07:13<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208861\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98643,
+          47.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Eurasian Magpie",
+        "description": "<b>Date:</b> 08.20.2016 06:46<br><b>Specie:</b> Eurasian Magpie(<i>Pica pica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208862\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Green Sandpiper",
+        "description": "<b>Date:</b> 08.20.2016 07:37<br><b>Specie:</b> Green Sandpiper(<i>Tringa ochropus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208863\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Marsh Tit",
+        "description": "<b>Date:</b> 08.20.2016 06:46<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208864\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.991087,
+          47.216495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 08:28<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208865\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Whitethroat",
+        "description": "<b>Date:</b> 08.20.2016 07:13<br><b>Specie:</b> Common Whitethroat(<i>Sylvia communis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208866\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98643,
+          47.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Reed Bunting",
+        "description": "<b>Date:</b> 08.20.2016 07:37<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208867\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Eurasian Stonechat",
+        "description": "<b>Date:</b> 08.20.2016 06:51<br><b>Specie:</b> Eurasian Stonechat(<i>Saxicola rubicola</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208868\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98922,
+          47.215557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Mallard",
+        "description": "<b>Date:</b> 08.20.2016 08:30<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208869\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98605,
+          47.216566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red Kite",
+        "description": "<b>Date:</b> 08.20.2016 07:51<br><b>Specie:</b> Red Kite(<i>Milvus milvus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208870\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982107,
+          47.210653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 Barn Swallow",
+        "description": "<b>Date:</b> 08.20.2016 09:08<br><b>Specie:</b> Barn Swallow(<i>Hirundo rustica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> ~30ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208871\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Willow Warbler",
+        "description": "<b>Date:</b> 08.20.2016 07:14<br><b>Specie:</b> Willow Warbler(<i>Phylloscopus trochilus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208872\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98643,
+          47.214377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 European Green Woodpecker",
+        "description": "<b>Date:</b> 08.20.2016 06:52<br><b>Specie:</b> European Green Woodpecker(<i>Picus viridis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208873\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98922,
+          47.215557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 08:31<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208874\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98605,
+          47.216566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Kingfisher",
+        "description": "<b>Date:</b> 08.20.2016 11:28<br><b>Specie:</b> Common Kingfisher(<i>Alcedo atthis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208875\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 07:51<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208876\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982107,
+          47.210653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Western Marsh Harrier",
+        "description": "<b>Date:</b> 08.20.2016 06:56<br><b>Specie:</b> Western Marsh Harrier(<i>Circus aeruginosus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208877\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.989661,
+          47.213687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 09:08<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208878\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 White Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 08:34<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208879\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.983489,
+          47.21468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">15 Common Snipe",
+        "description": "<b>Date:</b> 08.20.2016 07:20<br><b>Specie:</b> Common Snipe(<i>Gallinago gallinago</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >15ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208880\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986644,
+          47.2134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 06:58<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208881\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988293,
+          47.215424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Tree Sparrow",
+        "description": "<b>Date:</b> 08.20.2016 11:28<br><b>Specie:</b> Eurasian Tree Sparrow(<i>Passer montanus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208882\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.977734,
+          47.204822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 07:01<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208883\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.987096,
+          47.216242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Curlew",
+        "description": "<b>Date:</b> 08.20.2016 07:20<br><b>Specie:</b> Eurasian Curlew(<i>Numenius arquata</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208884\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986644,
+          47.2134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Kestrel",
+        "description": "<b>Date:</b> 08.20.2016 08:09<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208885\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988645,
+          47.21845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Common Moorhen",
+        "description": "<b>Date:</b> 08.20.2016 09:08<br><b>Specie:</b> Common Moorhen(<i>Gallinula chloropus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208886\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 08.20.2016 08:37<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208887\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.983348,
+          47.215557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Whinchat",
+        "description": "<b>Date:</b> 08.20.2016 07:05<br><b>Specie:</b> Whinchat(<i>Saxicola rubetra</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208888\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988109,
+          47.214306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red-backed Shrike",
+        "description": "<b>Date:</b> 08.20.2016 08:40<br><b>Specie:</b> Red-backed Shrike(<i>Lanius collurio</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208889\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982267,
+          47.216811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Zitting Cisticola",
+        "description": "<b>Date:</b> 08.20.2016 07:21<br><b>Specie:</b> Zitting Cisticola(<i>Cisticola juncidis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208890\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986559,
+          47.213342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Eurasian Coot",
+        "description": "<b>Date:</b> 08.20.2016 09:09<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208891\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=5 Common House Martin",
+        "description": "<b>Date:</b> 08.20.2016 08:10<br><b>Specie:</b> Common House Martin(<i>Delichon urbicum</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208892\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988645,
+          47.21845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Red-backed Shrike",
+        "description": "<b>Date:</b> 08.20.2016 07:05<br><b>Specie:</b> Red-backed Shrike(<i>Lanius collurio</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208893\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988109,
+          47.214306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Black-headed Gull",
+        "description": "<b>Date:</b> 08.20.2016 11:29<br><b>Specie:</b> Common Black-headed Gull(<i>Larus ridibundus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208894\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.981154,
+          47.2055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 09:27<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208895\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972976,
+          47.213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Western Marsh Harrier",
+        "description": "<b>Date:</b> 08.20.2016 07:21<br><b>Specie:</b> Western Marsh Harrier(<i>Circus aeruginosus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208896\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.988048,
+          47.213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Mallard",
+        "description": "<b>Date:</b> 08.20.2016 09:09<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208897\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Common House Martin",
+        "description": "<b>Date:</b> 08.20.2016 08:40<br><b>Specie:</b> Common House Martin(<i>Delichon urbicum</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208898\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982267,
+          47.216811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Wren",
+        "description": "<b>Date:</b> 08.20.2016 08:15<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208899\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Yellow-legged Gull",
+        "description": "<b>Date:</b> 08.20.2016 11:29<br><b>Specie:</b> Yellow-legged Gull(<i>Larus michahellis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208900\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.980329,
+          47.205509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">10 Wood Sandpiper",
+        "description": "<b>Date:</b> 08.20.2016 07:21<br><b>Specie:</b> Wood Sandpiper(<i>Tringa glareola</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208901\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986589,
+          47.21337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Northern Wheatear",
+        "description": "<b>Date:</b> 08.20.2016 09:34<br><b>Specie:</b> Northern Wheatear(<i>Oenanthe oenanthe</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208902\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.973037,
+          47.214245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 European Goldfinch",
+        "description": "<b>Date:</b> 08.20.2016 08:47<br><b>Specie:</b> European Goldfinch(<i>Carduelis carduelis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208903\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982267,
+          47.216811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=17 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 11:31<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =17ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208904\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976527,
+          47.20366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=5 Great Crested Grebe",
+        "description": "<b>Date:</b> 08.20.2016 09:09<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208905\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Whinchat",
+        "description": "<b>Date:</b> 08.20.2016 08:47<br><b>Specie:</b> Whinchat(<i>Saxicola rubetra</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208906\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982267,
+          47.216811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Western Jackdaw",
+        "description": "<b>Date:</b> 08.20.2016 09:45<br><b>Specie:</b> Western Jackdaw(<i>Corvus monedula</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208907\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976249,
+          47.214055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 08:16<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208908\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Common Kestrel",
+        "description": "<b>Date:</b> 08.20.2016 08:55<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208909\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.978791,
+          47.218006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">15 White Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 09:12<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> >15ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208910\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971174,
+          47.215985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 Barn Swallow",
+        "description": "<b>Date:</b> 08.20.2016 11:08<br><b>Specie:</b> Barn Swallow(<i>Hirundo rustica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> ~30ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208911\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Tufted Duck",
+        "description": "<b>Date:</b> 08.20.2016 07:22<br><b>Specie:</b> Tufted Duck(<i>Aythya fuligula</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208912\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986589,
+          47.21337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 08:16<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208913\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Eurasian Reed Warbler",
+        "description": "<b>Date:</b> 08.20.2016 09:54<br><b>Specie:</b> Eurasian Reed Warbler(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208914\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.978394,
+          47.211068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red Kite",
+        "description": "<b>Date:</b> 08.20.2016 11:31<br><b>Specie:</b> Red Kite(<i>Milvus milvus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208915\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.97665,
+          47.20243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Common Wood Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 11:09<br><b>Specie:</b> Common Wood Pigeon(<i>Columba palumbus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208916\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 09:56<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208917\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982087,
+          47.210697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 09:12<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208918\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971174,
+          47.215985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "x Eurasian Coot",
+        "description": "<b>Date:</b> 08.20.2016 07:22<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> xind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208919\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986589,
+          47.21337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Eurasian Reed Warbler",
+        "description": "<b>Date:</b> 08.20.2016 08:16<br><b>Specie:</b> Eurasian Reed Warbler(<i>Acrocephalus scirpaceus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208920\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 08:55<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208921\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.978791,
+          47.218006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Merganser",
+        "description": "<b>Date:</b> 08.20.2016 09:12<br><b>Specie:</b> Common Merganser(<i>Mergus merganser</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208922\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971603,
+          47.216206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Carrion Crow",
+        "description": "<b>Date:</b> 08.20.2016 11:09<br><b>Specie:</b> Carrion Crow(<i>Corvus corone</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208923\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 European Green Woodpecker",
+        "description": "<b>Date:</b> 08.20.2016 08:17<br><b>Specie:</b> European Green Woodpecker(<i>Picus viridis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208924\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Feral Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 08:55<br><b>Specie:</b> Feral Pigeon(<i>Columba livia domestica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208925\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.978791,
+          47.218006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=5 Common Blackbird",
+        "description": "<b>Date:</b> 08.20.2016 07:22<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208926\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.985529,
+          47.213633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Common Reed Bunting",
+        "description": "<b>Date:</b> 08.20.2016 09:57<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208927\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982244,
+          47.210374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Wood Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 09:17<br><b>Specie:</b> Common Wood Pigeon(<i>Columba palumbus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208928\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972114,
+          47.215142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 European Robin",
+        "description": "<b>Date:</b> 08.20.2016 07:22<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208929\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.985529,
+          47.213633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Garden Warbler",
+        "description": "<b>Date:</b> 08.20.2016 08:18<br><b>Specie:</b> Garden Warbler(<i>Sylvia borin</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208930\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 White Stork",
+        "description": "<b>Date:</b> 08.20.2016 11:09<br><b>Specie:</b> White Stork(<i>Ciconia ciconia</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208931\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 White Stork",
+        "description": "<b>Date:</b> 08.20.2016 08:56<br><b>Specie:</b> White Stork(<i>Ciconia ciconia</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208932\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.980855,
+          47.2206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 House Sparrow",
+        "description": "<b>Date:</b> 08.20.2016 09:17<br><b>Specie:</b> House Sparrow(<i>Passer domesticus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208933\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972114,
+          47.215142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Marsh Tit",
+        "description": "<b>Date:</b> 08.20.2016 09:59<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208934\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982244,
+          47.210374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">3 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 07:22<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> >3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208935\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Mute Swan",
+        "description": "<b>Date:</b> 08.20.2016 09:04<br><b>Specie:</b> Mute Swan(<i>Cygnus olor</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208936\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9748,
+          47.219466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Great White Egret",
+        "description": "<b>Date:</b> 08.20.2016 08:27<br><b>Specie:</b> Great White Egret(<i>Egretta alba</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208937\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986001,
+          47.216694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 11:09<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208938\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 09:17<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208939\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972114,
+          47.215142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Great Crested Grebe",
+        "description": "<b>Date:</b> 08.20.2016 09:05<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208940\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9748,
+          47.219466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 11:10<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208941\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975506,
+          47.2071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Eurasian Wren",
+        "description": "<b>Date:</b> 08.20.2016 07:25<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208942\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986542,
+          47.213429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 09:19<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 406m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208943\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972114,
+          47.215142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 11:13<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208944\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975776,
+          47.207772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Grey Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 09:08<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208945\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971946,
+          47.217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Whinchat",
+        "description": "<b>Date:</b> 08.20.2016 09:22<br><b>Specie:</b> Whinchat(<i>Saxicola rubetra</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208946\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972976,
+          47.213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Fieldfare",
+        "description": "<b>Date:</b> 08.20.2016 11:14<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208947\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976228,
+          47.207875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~30 European Goldfinch",
+        "description": "<b>Date:</b> 08.20.2016 09:59<br><b>Specie:</b> European Goldfinch(<i>Carduelis carduelis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> ~30ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208948\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982244,
+          47.210374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Grey Heron",
+        "description": "<b>Date:</b> 08.20.2016 09:22<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208949\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972976,
+          47.213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Northern Goshawk",
+        "description": "<b>Date:</b> 08.20.2016 10:02<br><b>Specie:</b> Northern Goshawk(<i>Accipiter gentilis</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208950\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982244,
+          47.210374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=20 Eurasian Tree Sparrow",
+        "description": "<b>Date:</b> 08.20.2016 09:26<br><b>Specie:</b> Eurasian Tree Sparrow(<i>Passer montanus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208951\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972976,
+          47.213886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Red-backed Shrike",
+        "description": "<b>Date:</b> 08.20.2016 11:18<br><b>Specie:</b> Red-backed Shrike(<i>Lanius collurio</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208952\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975583,
+          47.207625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">10 Feral Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 10:02<br><b>Specie:</b> Feral Pigeon(<i>Columba livia domestica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> >10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208953\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982214,
+          47.210631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Kestrel",
+        "description": "<b>Date:</b> 08.20.2016 11:20<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 408m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208954\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975497,
+          47.206867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=5 Sand Martin",
+        "description": "<b>Date:</b> 08.20.2016 10:03<br><b>Specie:</b> Sand Martin(<i>Riparia riparia</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208955\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982214,
+          47.210631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 11:22<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208956\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 10:04<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 403m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208957\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.982214,
+          47.210631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Great Tit",
+        "description": "<b>Date:</b> 08.20.2016 11:23<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208958\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Eurasian Teal",
+        "description": "<b>Date:</b> 08.20.2016 10:42<br><b>Specie:</b> Eurasian Teal(<i>Anas crecca</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208959\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98614,
+          47.212814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Marsh Tit",
+        "description": "<b>Date:</b> 08.20.2016 11:23<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208960\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Wood Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 10:51<br><b>Specie:</b> Common Wood Pigeon(<i>Columba palumbus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 404m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208961\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.98614,
+          47.212814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 11:06<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208962\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.974535,
+          47.205293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Long-tailed Tit",
+        "description": "<b>Date:</b> 08.20.2016 11:24<br><b>Specie:</b> Long-tailed Tit(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208963\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Magpie",
+        "description": "<b>Date:</b> 08.20.2016 11:06<br><b>Specie:</b> Eurasian Magpie(<i>Pica pica</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208964\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.975928,
+          47.205234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Buzzard",
+        "description": "<b>Date:</b> 08.20.2016 11:24<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208965\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 White Wagtail",
+        "description": "<b>Date:</b> 08.20.2016 11:27<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Uznach / Burgerriet / Uznach (SG) - 405m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12208966\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.976184,
+          47.204768
+        ]
+      }
+    }
+  ]
+}

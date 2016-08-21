@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Sand Martin",
+        "description": "<b>Date:</b> 08.20.2016 12:01<br><b>Specie:</b> Sand Martin(<i>Riparia riparia</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209405\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.863298,
+          47.201056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~50 Barn Swallow",
+        "description": "<b>Date:</b> 08.20.2016 12:01<br><b>Specie:</b> Barn Swallow(<i>Hirundo rustica</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> ~50ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209406\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.863298,
+          47.201056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Blue Tit",
+        "description": "<b>Date:</b> 08.20.2016 12:20<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 407m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209407\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.852913,
+          47.202108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Eurasian Tree Sparrow",
+        "description": "<b>Date:</b> 08.20.2016 12:02<br><b>Specie:</b> Eurasian Tree Sparrow(<i>Passer montanus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209408\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.863298,
+          47.201056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 European Pied Flycatcher",
+        "description": "<b>Date:</b> 08.20.2016 12:55<br><b>Specie:</b> European Pied Flycatcher(<i>Ficedula hypoleuca</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209409\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.862132,
+          47.200341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Kingfisher",
+        "description": "<b>Date:</b> 08.20.2016 12:21<br><b>Specie:</b> Common Kingfisher(<i>Alcedo atthis</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209410\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.852281,
+          47.202424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~3 Marsh Tit",
+        "description": "<b>Date:</b> 08.20.2016 12:02<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> ~3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209411\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.861496,
+          47.200883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Common Chiffchaff",
+        "description": "<b>Date:</b> 08.20.2016 12:21<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 407m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209412\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.852281,
+          47.202424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Spotted Flycatcher",
+        "description": "<b>Date:</b> 08.20.2016 12:57<br><b>Specie:</b> Spotted Flycatcher(<i>Muscicapa striata</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209413\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.862132,
+          47.200341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Common Wood Pigeon",
+        "description": "<b>Date:</b> 08.20.2016 12:04<br><b>Specie:</b> Common Wood Pigeon(<i>Columba palumbus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209414\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.863089,
+          47.201086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Great Crested Grebe",
+        "description": "<b>Date:</b> 08.20.2016 12:21<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209415\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850595,
+          47.203029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Fieldfare",
+        "description": "<b>Date:</b> 08.20.2016 12:06<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209416\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.858683,
+          47.201029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">1 Great Tit",
+        "description": "<b>Date:</b> 08.20.2016 12:57<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> >1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209417\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.862132,
+          47.200341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 12:22<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209418\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850595,
+          47.203029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Common Black-headed Gull",
+        "description": "<b>Date:</b> 08.20.2016 12:23<br><b>Specie:</b> Common Black-headed Gull(<i>Larus ridibundus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209419\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850595,
+          47.203029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Blackbird",
+        "description": "<b>Date:</b> 08.20.2016 12:06<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209420\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.858277,
+          47.201058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 European Goldfinch",
+        "description": "<b>Date:</b> 08.20.2016 12:07<br><b>Specie:</b> European Goldfinch(<i>Carduelis carduelis</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209421\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.857156,
+          47.201075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=2 Great Cormorant",
+        "description": "<b>Date:</b> 08.20.2016 12:23<br><b>Specie:</b> Great Cormorant(<i>Phalacrocorax carbo</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> =2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209422\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850595,
+          47.203029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Common Chaffinch",
+        "description": "<b>Date:</b> 08.20.2016 12:57<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209423\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.862132,
+          47.200341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Carrion Crow",
+        "description": "<b>Date:</b> 08.20.2016 12:07<br><b>Specie:</b> Carrion Crow(<i>Corvus corone</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209424\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.857608,
+          47.200979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=3 Mute Swan",
+        "description": "<b>Date:</b> 08.20.2016 12:24<br><b>Specie:</b> Mute Swan(<i>Cygnus olor</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> =3ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209425\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.850595,
+          47.203029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Magpie",
+        "description": "<b>Date:</b> 08.20.2016 12:09<br><b>Specie:</b> Eurasian Magpie(<i>Pica pica</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 407m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209426\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.855949,
+          47.201028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">10 Common Sandpiper",
+        "description": "<b>Date:</b> 08.20.2016 12:31<br><b>Specie:</b> Common Sandpiper(<i>Actitis hypoleucos</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 406m<br><b>Observation:</b> >10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209428\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85255,
+          47.202809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 European Robin",
+        "description": "<b>Date:</b> 08.20.2016 12:09<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209429\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856517,
+          47.201495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Long-tailed Tit",
+        "description": "<b>Date:</b> 08.20.2016 12:36<br><b>Specie:</b> Long-tailed Tit(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209430\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.854115,
+          47.201318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Eurasian Blackcap",
+        "description": "<b>Date:</b> 08.20.2016 12:09<br><b>Specie:</b> Eurasian Blackcap(<i>Sylvia atricapilla</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209431\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856541,
+          47.201698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=18 Tufted Duck",
+        "description": "<b>Date:</b> 08.20.2016 12:48<br><b>Specie:</b> Tufted Duck(<i>Aythya fuligula</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> =18ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209432\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856624,
+          47.202356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Great Spotted Woodpecker",
+        "description": "<b>Date:</b> 08.20.2016 12:09<br><b>Specie:</b> Great Spotted Woodpecker(<i>Dendrocopos major</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 411m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209433\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.855825,
+          47.201616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=1 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 08.20.2016 12:10<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 410m<br><b>Observation:</b> =1ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209434\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85471,
+          47.201468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">5 Little Grebe",
+        "description": "<b>Date:</b> 08.20.2016 12:48<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> >5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209435\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856624,
+          47.202356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ">2 Spotted Flycatcher",
+        "description": "<b>Date:</b> 08.20.2016 12:19<br><b>Specie:</b> Spotted Flycatcher(<i>Muscicapa striata</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 407m<br><b>Observation:</b> >2ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209436\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.852913,
+          47.202108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~5 Red-crested Pochard",
+        "description": "<b>Date:</b> 08.20.2016 12:48<br><b>Specie:</b> Red-crested Pochard(<i>Netta rufina</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> ~5ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209437\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856624,
+          47.202356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~20 Eurasian Coot",
+        "description": "<b>Date:</b> 08.20.2016 12:49<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 409m<br><b>Observation:</b> ~20ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209438\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856624,
+          47.202356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "=4 Great Cormorant",
+        "description": "<b>Date:</b> 08.20.2016 12:49<br><b>Specie:</b> Great Cormorant(<i>Phalacrocorax carbo</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 405m<br><b>Observation:</b> =4ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209439\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856387,
+          47.203289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "~10 Mallard",
+        "description": "<b>Date:</b> 08.20.2016 12:51<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Lachen / Dorf - Aahorn / Lachen (SZ) - 400m<br><b>Observation:</b> ~10ind. (atlas code:) <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12209440\">ornitho.ch</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.858406,
+          47.202137
+        ]
+      }
+    }
+  ]
+}
