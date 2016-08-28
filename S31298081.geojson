@@ -265,6 +265,97 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "greylag goose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.190366744995117,
+          55.26948331170559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1 wheater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.187019348144531,
+          55.26200102475379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "razorbill, + ~10 razobill (?), ~30 gannets fishing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.185088157653809,
+          55.26099838904107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "2 peregrin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.184573173522949,
+          55.286912062147174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "stonechat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24220848083496,
+          55.29895860426088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "great skua (nesting apparently around there)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275167465209961,
+          55.296979605998445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "great skua eating, 4+1+1 razorbill (?), fmanx shearwater (gr2-5)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.287226676940918,
+          55.30215899748017
+        ]
+      }
     }
   ]
 }
