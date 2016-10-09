@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Tarin des aulnes",
+        "description": "<b>Date:</b> 09.10.2016 07:42<br><b>Specie:</b> Tarin des aulnes(<i>Carduelis spinus</i>)<br><b>Place:</b> Arête de Sélaire / Val-d'Illiez (VS) - 1935m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383649\">12383649</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90384,
+          46.168231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Troglodyte mignon",
+        "description": "<b>Date:</b> 09.10.2016 07:42<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Arête de Sélaire / Val-d'Illiez (VS) - 1885m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383650\">12383650</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90268,
+          46.167644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pipit spioncelle",
+        "description": "<b>Date:</b> 09.10.2016 07:43<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Champéry [558/112] / Champéry (VS) - 2035m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383651\">12383651</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.903751,
+          46.164577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Mésange boréale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 09.10.2016 10:45<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1593m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383652\">12383652</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895159,
+          46.171921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Chocard à bec jaune",
+        "description": "<b>Date:</b> 09.10.2016 07:58<br><b>Specie:</b> Chocard à bec jaune(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Belle Etoile / Champéry (VS) - 2283m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383653\">12383653</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.911423,
+          46.167711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Bouvreuil pivoine",
+        "description": "<b>Date:</b> 09.10.2016 11:23<br><b>Specie:</b> Bouvreuil pivoine(<i>Pyrrhula pyrrhula</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1484m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383654\">12383654</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878243,
+          46.164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise3 Bec-croisé des sapins",
+        "description": "<b>Date:</b> 09.10.2016 08:02<br><b>Specie:</b> Bec-croisé des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Arête de Sélaire / Val-d'Illiez (VS) - 1986m<br><b>Observation:</b> Localisation précise3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383655\">12383655</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.904729,
+          46.1673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Rougegorge familier",
+        "description": "<b>Date:</b> 09.10.2016 10:45<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1593m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383656\">12383656</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895159,
+          46.171921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 09.10.2016 11:41<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1312m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383657\">12383657</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874792,
+          46.163829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pipit spioncelle",
+        "description": "<b>Date:</b> 09.10.2016 09:28<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Arête de Sélaire / Val-d'Illiez (VS) - 2017m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383658\">12383658</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.904943,
+          46.169213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Bergeronnette grise",
+        "description": "<b>Date:</b> 09.10.2016 13:40<br><b>Specie:</b> Bergeronnette grise(<i>Motacilla alba</i>)<br><b>Place:</b> Barme / Champéry (VS) - 1495m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383659\">12383659</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.833206,
+          46.149314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise2 Corneille noire",
+        "description": "<b>Date:</b> 09.10.2016 10:50<br><b>Specie:</b> Corneille noire(<i>Corvus corone corone</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1446m<br><b>Observation:</b> Localisation précise2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383661\">12383661</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.893039,
+          46.173607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Rougegorge familier",
+        "description": "<b>Date:</b> 09.10.2016 09:35<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Arête de Sélaire / Val-d'Illiez (VS) - 1994m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383662\">12383662</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.904019,
+          46.170204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Pinson des arbres",
+        "description": "<b>Date:</b> 09.10.2016 11:41<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1312m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383663\">12383663</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874782,
+          46.163591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Épervier d'Europe",
+        "description": "<b>Date:</b> 09.10.2016 12:18<br><b>Specie:</b> Épervier d'Europe(<i>Accipiter nisus</i>)<br><b>Place:</b> Grand Paradis / Champéry (VS) - 1130m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383664\">12383664</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.863214,
+          46.159642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Grand Corbeau",
+        "description": "<b>Date:</b> 09.10.2016 10:53<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1433m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383665\">12383665</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891252,
+          46.172269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Bec-croisé des sapins",
+        "description": "<b>Date:</b> 09.10.2016 09:52<br><b>Specie:</b> Bec-croisé des sapins(<i>Loxia curvirostra</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1827m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383666\">12383666</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.899403,
+          46.171571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Grand Corbeau",
+        "description": "<b>Date:</b> 09.10.2016 12:18<br><b>Specie:</b> Grand Corbeau(<i>Corvus corax</i>)<br><b>Place:</b> Grand Paradis / Champéry (VS) - 1156m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383667\">12383667</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862625,
+          46.159449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise20 Mésange noire",
+        "description": "<b>Date:</b> 09.10.2016 11:41<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1309m<br><b>Observation:</b> Localisation précise20 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383668\">12383668</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874735,
+          46.163179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise8 Grive musicienne",
+        "description": "<b>Date:</b> 09.10.2016 10:53<br><b>Specie:</b> Grive musicienne(<i>Turdus philomelos</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1438m<br><b>Observation:</b> Localisation précise8 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383669\">12383669</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891093,
+          46.172121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Tarin des aulnes",
+        "description": "<b>Date:</b> 09.10.2016 09:56<br><b>Specie:</b> Tarin des aulnes(<i>Carduelis spinus</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1723m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383670\">12383670</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89776,
+          46.170988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Mésange alpestre",
+        "description": "<b>Date:</b> 09.10.2016 11:49<br><b>Specie:</b> Mésange alpestre(<i>Parus montanus montanus</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1237m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383671\">12383671</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873261,
+          46.163079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise3 Mésange huppée",
+        "description": "<b>Date:</b> 09.10.2016 12:21<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Grand Paradis / Champéry (VS) - 1156m<br><b>Observation:</b> Localisation précise3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383672\">12383672</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862625,
+          46.159449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Roitelet à triple bandeau",
+        "description": "<b>Date:</b> 09.10.2016 10:53<br><b>Specie:</b> Roitelet à triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1438m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383673\">12383673</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891093,
+          46.172121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Mésange noire",
+        "description": "<b>Date:</b> 09.10.2016 10:01<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1705m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383674\">12383674</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8974,
+          46.170851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pouillot véloce",
+        "description": "<b>Date:</b> 09.10.2016 11:49<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1238m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383675\">12383675</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873262,
+          46.163114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Mésange charbonnière",
+        "description": "<b>Date:</b> 09.10.2016 12:21<br><b>Specie:</b> Mésange charbonnière(<i>Parus major</i>)<br><b>Place:</b> Grand Paradis / Champéry (VS) - 1133m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383676\">12383676</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86161,
+          46.160056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pipit spioncelle",
+        "description": "<b>Date:</b> 09.10.2016 10:55<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1443m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383677\">12383677</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.888828,
+          46.172379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pic noir",
+        "description": "<b>Date:</b> 09.10.2016 10:13<br><b>Specie:</b> Pic noir(<i>Dryocopus martius</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1821m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383678\">12383678</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.899849,
+          46.170739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Mésange huppée",
+        "description": "<b>Date:</b> 09.10.2016 12:29<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Grand Paradis / Champéry (VS) - 1187m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383679\">12383679</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.856754,
+          46.158338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 09.10.2016 10:57<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1456m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383680\">12383680</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.887945,
+          46.172189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise20 Mésange noire",
+        "description": "<b>Date:</b> 09.10.2016 10:23<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1638m<br><b>Observation:</b> Localisation précise20 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383681\">12383681</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895665,
+          46.17075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Roitelet à triple bandeau",
+        "description": "<b>Date:</b> 09.10.2016 11:49<br><b>Specie:</b> Roitelet à triple bandeau(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1238m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383682\">12383682</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873262,
+          46.163114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Mésange boréale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 09.10.2016 10:57<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1447m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383683\">12383683</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88713,
+          46.172231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pic noir",
+        "description": "<b>Date:</b> 09.10.2016 12:30<br><b>Specie:</b> Pic noir(<i>Dryocopus martius</i>)<br><b>Place:</b> Champéry [554/111] / Champéry (VS) - 1239m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383684\">12383684</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.854231,
+          46.156744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Grimpereau des bois",
+        "description": "<b>Date:</b> 09.10.2016 10:26<br><b>Specie:</b> Grimpereau des bois(<i>Certhia familiaris</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1621m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383685\">12383685</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895353,
+          46.171474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pinson des arbres",
+        "description": "<b>Date:</b> 09.10.2016 11:53<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1220m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383686\">12383686</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873151,
+          46.16264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise10 Mésange noire",
+        "description": "<b>Date:</b> 09.10.2016 12:31<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Champéry [554/111] / Champéry (VS) - 1245m<br><b>Observation:</b> Localisation précise10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383687\">12383687</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.853738,
+          46.156147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise3 Mésange à longue queue",
+        "description": "<b>Date:</b> 09.10.2016 11:01<br><b>Specie:</b> Mésange à longue queue(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1465m<br><b>Observation:</b> Localisation précise3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383688\">12383688</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.885597,
+          46.17111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Troglodyte mignon",
+        "description": "<b>Date:</b> 09.10.2016 11:53<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1186m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383689\">12383689</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873391,
+          46.161398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Roitelet huppé",
+        "description": "<b>Date:</b> 09.10.2016 10:26<br><b>Specie:</b> Roitelet huppé(<i>Regulus regulus</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1664m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383690\">12383690</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.896251,
+          46.170768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Mésange huppée",
+        "description": "<b>Date:</b> 09.10.2016 11:01<br><b>Specie:</b> Mésange huppée(<i>Parus cristatus</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1462m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383691\">12383691</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.885409,
+          46.17099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Troglodyte mignon",
+        "description": "<b>Date:</b> 09.10.2016 12:34<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Champéry [554/111] / Champéry (VS) - 1244m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383692\">12383692</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.852174,
+          46.15479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Mésange boréale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 09.10.2016 11:53<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1157m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383693\">12383693</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.872693,
+          46.16162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pouillot véloce",
+        "description": "<b>Date:</b> 09.10.2016 10:29<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Champéry [557/113] / Champéry (VS) - 1563m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383694\">12383694</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.894523,
+          46.171417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Gélinotte des bois",
+        "description": "<b>Date:</b> 09.10.2016 11:14<br><b>Specie:</b> Gélinotte des bois(<i>Tetrastes bonasia</i>)<br><b>Place:</b> Antème / Champéry (VS) - 1514m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383695\">12383695</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882755,
+          46.167692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise2 Sittelle torchepot",
+        "description": "<b>Date:</b> 09.10.2016 11:58<br><b>Specie:</b> Sittelle torchepot(<i>Sitta europaea</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1152m<br><b>Observation:</b> Localisation précise2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383696\">12383696</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.872467,
+          46.161839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Troglodyte mignon",
+        "description": "<b>Date:</b> 09.10.2016 13:09<br><b>Specie:</b> Troglodyte mignon(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Champ de Barme / Champéry (VS) - 1300m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383697\">12383697</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.844413,
+          46.152186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pic noir",
+        "description": "<b>Date:</b> 09.10.2016 11:14<br><b>Specie:</b> Pic noir(<i>Dryocopus martius</i>)<br><b>Place:</b> Antème / Champéry (VS) - 1507m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383698\">12383698</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88255,
+          46.167306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Grimpereau des bois",
+        "description": "<b>Date:</b> 09.10.2016 10:45<br><b>Specie:</b> Grimpereau des bois(<i>Certhia familiaris</i>)<br><b>Place:</b> Val-d'Illiez [558/113] / Val-d'Illiez (VS) - 1593m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383699\">12383699</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895159,
+          46.171921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Mésange boréale (M. alpestre ou des saules)",
+        "description": "<b>Date:</b> 09.10.2016 11:14<br><b>Specie:</b> Mésange boréale (M. alpestre ou des saules)(<i>Parus montanus</i>)<br><b>Place:</b> Antème / Champéry (VS) - 1541m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383700\">12383700</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883022,
+          46.167187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Mésange noire",
+        "description": "<b>Date:</b> 09.10.2016 13:09<br><b>Specie:</b> Mésange noire(<i>Parus ater</i>)<br><b>Place:</b> Champ de Barme / Champéry (VS) - 1300m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383701\">12383701</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.844413,
+          46.152186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Rougequeue noir",
+        "description": "<b>Date:</b> 09.10.2016 12:00<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1131m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383702\">12383702</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871467,
+          46.162452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise2 Bouvreuil pivoine",
+        "description": "<b>Date:</b> 09.10.2016 11:14<br><b>Specie:</b> Bouvreuil pivoine(<i>Pyrrhula pyrrhula</i>)<br><b>Place:</b> Antème / Champéry (VS) - 1541m<br><b>Observation:</b> Localisation précise2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383703\">12383703</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883022,
+          46.167187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Pouillot véloce",
+        "description": "<b>Date:</b> 09.10.2016 12:07<br><b>Specie:</b> Pouillot véloce(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Champéry [555/112] / Champéry (VS) - 1091m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383704\">12383704</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.867064,
+          46.163098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Grive musicienne",
+        "description": "<b>Date:</b> 09.10.2016 13:20<br><b>Specie:</b> Grive musicienne(<i>Turdus philomelos</i>)<br><b>Place:</b> Champéry [553/111] / Champéry (VS) - 1432m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383705\">12383705</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83856,
+          46.152096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 09.10.2016 11:19<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Champéry [556/112] / Champéry (VS) - 1527m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383706\">12383706</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880485,
+          46.164988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Grive musicienne",
+        "description": "<b>Date:</b> 09.10.2016 12:07<br><b>Specie:</b> Grive musicienne(<i>Turdus philomelos</i>)<br><b>Place:</b> Champéry [555/112] / Champéry (VS) - 1092m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383707\">12383707</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.867634,
+          46.162966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise2 Pinson des arbres",
+        "description": "<b>Date:</b> 09.10.2016 13:21<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Champéry [553/111] / Champéry (VS) - 1432m<br><b>Observation:</b> Localisation précise2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383708\">12383708</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83856,
+          46.152096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Rougegorge familier",
+        "description": "<b>Date:</b> 09.10.2016 13:27<br><b>Specie:</b> Rougegorge familier(<i>Erithacus rubecula</i>)<br><b>Place:</b> Champéry [553/111] / Champéry (VS) - 1475m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383709\">12383709</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.837596,
+          46.151485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Geai des chênes",
+        "description": "<b>Date:</b> 09.10.2016 12:10<br><b>Specie:</b> Geai des chênes(<i>Garrulus glandarius</i>)<br><b>Place:</b> Champéry [555/112] / Champéry (VS) - 1071m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383710\">12383710</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86439,
+          46.162301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Rougequeue noir",
+        "description": "<b>Date:</b> 09.10.2016 13:37<br><b>Specie:</b> Rougequeue noir(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Barme / Champéry (VS) - 1488m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383711\">12383711</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.834872,
+          46.149433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise1 Cassenoix moucheté",
+        "description": "<b>Date:</b> 09.10.2016 12:17<br><b>Specie:</b> Cassenoix moucheté(<i>Nucifraga caryocatactes</i>)<br><b>Place:</b> Champéry [555/112] / Champéry (VS) - 1111m<br><b>Observation:</b> Localisation précise1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383712\">12383712</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.864022,
+          46.159745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise5 Pipit spioncelle",
+        "description": "<b>Date:</b> 09.10.2016 13:38<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Barme / Champéry (VS) - 1487m<br><b>Observation:</b> Localisation précise5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383713\">12383713</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.835067,
+          46.149017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise2 Pinson des arbres",
+        "description": "<b>Date:</b> 09.10.2016 13:38<br><b>Specie:</b> Pinson des arbres(<i>Fringilla coelebs</i>)<br><b>Place:</b> Barme / Champéry (VS) - 1489m<br><b>Observation:</b> Localisation précise2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383714\">12383714</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.835335,
+          46.149778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Localisation précise20 Pipit spioncelle",
+        "description": "<b>Date:</b> 09.10.2016 14:02<br><b>Specie:</b> Pipit spioncelle(<i>Anthus spinoletta</i>)<br><b>Place:</b> Barme / Champéry (VS) - 1493m<br><b>Observation:</b> Localisation précise20 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12383752\">12383752</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.831954,
+          46.149719
+        ]
+      }
+    }
+  ]
+}
