@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Precise pointing2 Golden Eagle",
-        "description": "<b>Date:</b> 10.16.2016 13:57<br><b>Specie:</b> Golden Eagle(<i>Aquila chrysaetos</i>)<br><b>Place:</b> Bas de la Tête de Barme / Conthey (VS) - 2905m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414931\">12414931</a>",
+        "description": "<b>Date:</b> 10.16.2016 13:57<br><b>Specie:</b> Golden Eagle(<i>Aquila chrysaetos</i>)<br><b>Place:</b> Bas de la TÃªte de Barme / Conthey (VS) - 2905m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414931\">12414931</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -447,7 +447,7 @@
       "type": "Feature",
       "properties": {
         "title": "Precise pointing10 Firecrest",
-        "description": "<b>Date:</b> 10.16.2016 12:36<br><b>Specie:</b> Firecrest(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1668m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414961\">12414961</a>",
+        "description": "<b>Date:</b> 10.16.2016 12:36<br><b>Specie:</b> Firecrest(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Les PenÃ©s / Conthey (VS) - 1668m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414961\">12414961</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -464,7 +464,7 @@
       "type": "Feature",
       "properties": {
         "title": "Precise pointing1 Eurasian Treecreeper",
-        "description": "<b>Date:</b> 10.16.2016 12:36<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1668m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414962\">12414962</a>",
+        "description": "<b>Date:</b> 10.16.2016 12:36<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Les PenÃ©s / Conthey (VS) - 1668m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414962\">12414962</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -566,7 +566,7 @@
       "type": "Feature",
       "properties": {
         "title": "Precise pointing1 Grey Wagtail",
-        "description": "<b>Date:</b> 10.16.2016 12:46<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1551m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414968\">12414968</a>",
+        "description": "<b>Date:</b> 10.16.2016 12:46<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Les PenÃ©s / Conthey (VS) - 1551m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414968\">12414968</a>",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "7e7e7e"
@@ -627,6 +627,143 @@
         "coordinates": [
           7.216851,
           46.280016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.162892818450927,
+            46.28416272365834
+          ],
+          [
+            7.160532474517822,
+            46.28170105174313
+          ],
+          [
+            7.160618305206299,
+            46.27971383831084
+          ],
+          [
+            7.163043022155762,
+            46.27621379462575
+          ],
+          [
+            7.161133289337157,
+            46.2753832429665
+          ],
+          [
+            7.1640944480896,
+            46.27499762541716
+          ],
+          [
+            7.166197299957275,
+            46.276095145159424
+          ],
+          [
+            7.169673442840575,
+            46.27846808567556
+          ],
+          [
+            7.173879146575928,
+            46.27855706894594
+          ],
+          [
+            7.1764326095581055,
+            46.279802819558135
+          ],
+          [
+            7.178041934967041,
+            46.28081126359498
+          ],
+          [
+            7.17928647994995,
+            46.28325814623104
+          ],
+          [
+            7.183084487915039,
+            46.28353990145754
+          ],
+          [
+            7.185873985290528,
+            46.283658534803585
+          ],
+          [
+            7.185273170471191,
+            46.28563077654461
+          ],
+          [
+            7.1855735778808585,
+            46.287291556623146
+          ],
+          [
+            7.189285755157472,
+            46.28806261597262
+          ],
+          [
+            7.19252586364746,
+            46.28720258753822
+          ],
+          [
+            7.196495532989502,
+            46.28717293114449
+          ],
+          [
+            7.197482585906982,
+            46.28625357497461
+          ],
+          [
+            7.198920249938965,
+            46.28626840342234
+          ],
+          [
+            7.199864387512207,
+            46.28396994611473
+          ],
+          [
+            7.210249900817872,
+            46.28285775473231
+          ],
+          [
+            7.2125244140625,
+            46.28388097163502
+          ],
+          [
+            7.2115373611450195,
+            46.28161207357858
+          ],
+          [
+            7.212545871734618,
+            46.281537924997735
+          ],
+          [
+            7.213361263275146,
+            46.2802773837699
+          ],
+          [
+            7.214691638946533,
+            46.27966934763298
+          ],
+          [
+            7.21604347229004,
+            46.28101888212206
+          ],
+          [
+            7.216923236846924,
+            46.28014391300079
+          ],
+          [
+            7.216966152191162,
+            46.27959519642297
+          ],
+          [
+            7.217202186584473,
+            46.28021806346822
+          ]
         ]
       }
     }
