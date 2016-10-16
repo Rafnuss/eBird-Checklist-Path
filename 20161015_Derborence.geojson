@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Coal Tit",
+        "description": "<b>Date:</b> 10.15.2016 14:10<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Derborence / Conthey (VS) - 1463m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414918\">12414918</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.216373,
+          46.281986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Red Crossbill",
+        "description": "<b>Date:</b> 10.15.2016 14:11<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Derborence / Conthey (VS) - 1474m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414919\">12414919</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215837,
+          46.282458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Firecrest",
+        "description": "<b>Date:</b> 10.15.2016 14:24<br><b>Specie:</b> Firecrest(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1556m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414920\">12414920</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212907,
+          46.284734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chaffinch",
+        "description": "<b>Date:</b> 10.15.2016 14:24<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1570m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414921\">12414921</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212362,
+          46.284745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 10.15.2016 14:35<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1653m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414923\">12414923</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.210251,
+          46.282926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Raven",
+        "description": "<b>Date:</b> 10.15.2016 17:25<br><b>Specie:</b> Common Raven(<i>Corvus corax</i>)<br><b>Place:</b> Anzeindaz / Bex (VD) - 1899m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414924\">12414924</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164951,
+          46.287394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Alpine Chough",
+        "description": "<b>Date:</b> 10.15.2016 17:25<br><b>Specie:</b> Alpine Chough(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Anzeindaz / Bex (VD) - 1899m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414925\">12414925</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164951,
+          46.287394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Coal Tit",
+        "description": "<b>Date:</b> 10.15.2016 14:35<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Les Penés / Conthey (VS) - 1653m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414926\">12414926</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.210251,
+          46.282926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Black Redstart",
+        "description": "<b>Date:</b> 10.15.2016 14:58<br><b>Specie:</b> Black Redstart(<i>Phoenicurus ochruros</i>)<br><b>Place:</b> Le Grenier (Cheville) / Conthey (VS) - 1751m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414927\">12414927</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199669,
+          46.284248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Water Pipit",
+        "description": "<b>Date:</b> 10.15.2016 18:40<br><b>Specie:</b> Water Pipit(<i>Anthus spinoletta</i>)<br><b>Place:</b> Col de la Poreyre / Bex (VD) - 2027m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414928\">12414928</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.153868,
+          46.281107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Raven",
+        "description": "<b>Date:</b> 10.15.2016 15:13<br><b>Specie:</b> Common Raven(<i>Corvus corax</i>)<br><b>Place:</b> Le Grenier (Cheville) / Conthey (VS) - 1756m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414932\">12414932</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199559,
+          46.284569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Alpine Chough",
+        "description": "<b>Date:</b> 10.15.2016 15:36<br><b>Specie:</b> Alpine Chough(<i>Pyrrhocorax graculus</i>)<br><b>Place:</b> Plan du Sex / Conthey (VS) - 1902m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414934\">12414934</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197637,
+          46.286302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing50 Water Pipit",
+        "description": "<b>Date:</b> 10.15.2016 16:39<br><b>Specie:</b> Water Pipit(<i>Anthus spinoletta</i>)<br><b>Place:</b> Pas de Cheville / Bex (VD) - 2038m<br><b>Observation:</b> Precise pointing50 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12414937\">12414937</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.191223,
+          46.287405
+        ]
+      }
+    }
+  ]
+}
