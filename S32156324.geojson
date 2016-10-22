@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.341536283493042,
+            48.515680454766446
+          ],
+          [
+            2.3411285877227783,
+            48.51590787641607
+          ],
+          [
+            2.3417294025421143,
+            48.51638403718861
+          ],
+          [
+            2.343038320541382,
+            48.51797594518929
+          ],
+          [
+            2.3428452014923096,
+            48.51827442237047
+          ],
+          [
+            2.34133243560791,
+            48.51888558444481
+          ],
+          [
+            2.342920303344726,
+            48.51828152894859
+          ],
+          [
+            2.3430919647216797,
+            48.517926198821435
+          ],
+          [
+            2.341815233230591,
+            48.51636271665271
+          ],
+          [
+            2.340227365493774,
+            48.51734345201744
+          ],
+          [
+            2.340227365493774,
+            48.51748558600238
+          ],
+          [
+            2.3405706882476807,
+            48.517627719588525
+          ],
+          [
+            2.339497804641723,
+            48.51718710417342
+          ],
+          [
+            2.3381459712982178,
+            48.516938367972585
+          ],
+          [
+            2.3382854461669917,
+            48.5175566528453
+          ],
+          [
+            2.338564395904541,
+            48.517634826257364
+          ],
+          [
+            2.338113784790039,
+            48.51746426593005
+          ],
+          [
+            2.337738275527954,
+            48.51638403718861
+          ],
+          [
+            2.3376524448394775,
+            48.51442251032683
+          ],
+          [
+            2.3413538932800293,
+            48.51565202698848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341514825820923,
+          48.51563070614452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Observatoire du blongios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3412787914276123,
+          48.51887137145708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Observatoire de l'Avau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3405706882476807,
+          48.517670359586624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": " Observatoire des fauvettes: good for snipes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338639497756958,
+          48.517613506247855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "cetti's call"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34208345413208,
+          48.519162736908974
+        ]
+      }
+    }
+  ]
+}
