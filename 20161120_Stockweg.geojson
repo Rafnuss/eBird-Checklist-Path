@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Barn Owl",
+        "description": "<b>Date:</b> 11.20.2016 12:45<br><b>Specie:</b> Barn Owl(<i>Tyto alba</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 427m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551275\">12551275</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.071125,
+          46.983866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing50 Eurasian Curlew",
+        "description": "<b>Date:</b> 11.20.2016 12:45<br><b>Specie:</b> Eurasian Curlew(<i>Numenius arquata</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing50 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551276\">12551276</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068226,
+          46.985694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Tit",
+        "description": "<b>Date:</b> 11.20.2016 12:56<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551277\">12551277</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072113,
+          47.002497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 11.20.2016 12:56<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551278\">12551278</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072113,
+          47.002497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great White Egret",
+        "description": "<b>Date:</b> 11.20.2016 12:46<br><b>Specie:</b> Great White Egret(<i>Egretta alba</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551279\">12551279</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.069194,
+          46.985373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing4 Common Buzzard",
+        "description": "<b>Date:</b> 11.20.2016 12:46<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 427m<br><b>Observation:</b> Precise pointing4 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551280\">12551280</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.069448,
+          46.983965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Red Kite",
+        "description": "<b>Date:</b> 11.20.2016 12:58<br><b>Specie:</b> Red Kite(<i>Milvus milvus</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551281\">12551281</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072113,
+          47.002497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Sparrowhawk",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> Eurasian Sparrowhawk(<i>Accipiter nisus</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 427m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551282\">12551282</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.069448,
+          46.983965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Kestrel",
+        "description": "<b>Date:</b> 11.20.2016 13:02<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551283\">12551283</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07013,
+          47.002638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Red Kite",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> Red Kite(<i>Milvus milvus</i>)<br><b>Place:</b> Stockweg / Ins (BE) - 427m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551284\">12551284</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.069448,
+          46.983965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Tree Sparrow",
+        "description": "<b>Date:</b> 11.20.2016 13:02<br><b>Specie:</b> Eurasian Tree Sparrow(<i>Passer montanus</i>)<br><b>Place:</b> Nusshof / Gampelen (BE) - 426m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551285\">12551285</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068554,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Skylark",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> Eurasian Skylark(<i>Alauda arvensis</i>)<br><b>Place:</b> Felder Witzwil-Ins / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551286\">12551286</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.066189,
+          46.980517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Yellow-legged Gull",
+        "description": "<b>Date:</b> 11.20.2016 13:02<br><b>Specie:</b> Yellow-legged Gull(<i>Larus michahellis</i>)<br><b>Place:</b> Nusshof / Gampelen (BE) - 426m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551287\">12551287</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068554,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Kingfisher",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> Common Kingfisher(<i>Alcedo atthis</i>)<br><b>Place:</b> Champs entre Witzwil et Ins / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551288\">12551288</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.081018,
+          46.99659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing100 Eurasian Curlew",
+        "description": "<b>Date:</b> 11.20.2016 13:02<br><b>Specie:</b> Eurasian Curlew(<i>Numenius arquata</i>)<br><b>Place:</b> Nusshof / Gampelen (BE) - 426m<br><b>Observation:</b> Precise pointing100 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551289\">12551289</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068554,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Rook",
+        "description": "<b>Date:</b> 11.20.2016 13:10<br><b>Specie:</b> Rook(<i>Corvus frugilegus</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551290\">12551290</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072411,
+          47.001708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 European Greenfinch",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> European Greenfinch(<i>Carduelis chloris</i>)<br><b>Place:</b> Champs entre Witzwil et Ins / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551291\">12551291</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.081018,
+          46.99659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Buzzard",
+        "description": "<b>Date:</b> 11.20.2016 12:47<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Champs entre Witzwil et Ins / Ins (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551292\">12551292</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.081018,
+          46.99659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Carrion Crow",
+        "description": "<b>Date:</b> 11.20.2016 13:11<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551294\">12551294</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072411,
+          47.001708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Meadow Pipit",
+        "description": "<b>Date:</b> 11.20.2016 12:48<br><b>Specie:</b> Meadow Pipit(<i>Anthus pratensis</i>)<br><b>Place:</b> Champs entre Witzwil et Ins / Ins (BE) - 427m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551295\">12551295</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.082836,
+          46.996966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chiffchaff",
+        "description": "<b>Date:</b> 11.20.2016 13:12<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 428m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551296\">12551296</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072411,
+          47.001708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Heron",
+        "description": "<b>Date:</b> 11.20.2016 12:50<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Gampelen [572/205] / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551297\">12551297</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.077056,
+          47.000204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chaffinch",
+        "description": "<b>Date:</b> 11.20.2016 13:12<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551298\">12551298</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.073014,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Robin",
+        "description": "<b>Date:</b> 11.20.2016 12:50<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Gampelen [572/205] / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551299\">12551299</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.077056,
+          47.000204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Mistle Thrush",
+        "description": "<b>Date:</b> 11.20.2016 13:18<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551300\">12551300</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.073014,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 House Sparrow",
+        "description": "<b>Date:</b> 11.20.2016 12:50<br><b>Specie:</b> House Sparrow(<i>Passer domesticus</i>)<br><b>Place:</b> Gampelen [572/205] / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551301\">12551301</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.077056,
+          47.000204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Reed Bunting",
+        "description": "<b>Date:</b> 11.20.2016 13:20<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551302\">12551302</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.073014,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Wagtail",
+        "description": "<b>Date:</b> 11.20.2016 12:52<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551303\">12551303</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072113,
+          47.002497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Yellowhammer",
+        "description": "<b>Date:</b> 11.20.2016 13:20<br><b>Specie:</b> Yellowhammer(<i>Emberiza citrinella</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551304\">12551304</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.073014,
+          47.00197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Mute Swan",
+        "description": "<b>Date:</b> 11.20.2016 13:36<br><b>Specie:</b> Mute Swan(<i>Cygnus olor</i>)<br><b>Place:</b> Champs entre Witzwil et Ins / Ins (BE) - 430m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551305\">12551305</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.082903,
+          46.995413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Blackbird",
+        "description": "<b>Date:</b> 11.20.2016 12:53<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Giritzimoos / Gampelen (BE) - 429m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12551306\">12551306</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.072113,
+          47.002497
+        ]
+      }
+    }
+  ]
+}
