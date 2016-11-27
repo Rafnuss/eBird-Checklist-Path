@@ -1,0 +1,617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Wren",
+        "description": "<b>Date:</b> 11.26.2016 07:35<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 969m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571289\">12571289</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197902,
+          46.482711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Carrion Crow",
+        "description": "<b>Date:</b> 11.26.2016 07:35<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 969m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571290\">12571290</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197902,
+          46.482711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Spotted Woodpecker",
+        "description": "<b>Date:</b> 11.26.2016 08:05<br><b>Specie:</b> Great Spotted Woodpecker(<i>Dendrocopos major</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1098m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571291\">12571291</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212586,
+          46.483745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 11.26.2016 07:37<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 969m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571292\">12571292</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197902,
+          46.482711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Spotted Woodpecker",
+        "description": "<b>Date:</b> 11.26.2016 08:47<br><b>Specie:</b> Great Spotted Woodpecker(<i>Dendrocopos major</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1041m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571293\">12571293</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197785,
+          46.479775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Red Crossbill",
+        "description": "<b>Date:</b> 11.26.2016 08:15<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1187m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571294\">12571294</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211804,
+          46.481325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:48<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1040m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571295\">12571295</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197556,
+          46.479758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Crested Tit",
+        "description": "<b>Date:</b> 11.26.2016 07:38<br><b>Specie:</b> European Crested Tit(<i>Parus cristatus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 968m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571296\">12571296</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.198968,
+          46.482978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Coal Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:17<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1187m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571297\">12571297</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211804,
+          46.481325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Raven",
+        "description": "<b>Date:</b> 11.26.2016 08:49<br><b>Specie:</b> Common Raven(<i>Corvus corax</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1040m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571298\">12571298</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197556,
+          46.479758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Wren",
+        "description": "<b>Date:</b> 11.26.2016 07:46<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 981m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571299\">12571299</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.205364,
+          46.483895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Alpine or Willow Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:21<br><b>Specie:</b> Alpine or Willow Tit(<i>Parus montanus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1205m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571300\">12571300</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.479816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Carrion Crow",
+        "description": "<b>Date:</b> 11.26.2016 08:49<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1038m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571301\">12571301</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197036,
+          46.47973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Raven",
+        "description": "<b>Date:</b> 11.26.2016 07:47<br><b>Specie:</b> Common Raven(<i>Corvus corax</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 991m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571302\">12571302</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20665,
+          46.484314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 European Crested Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:21<br><b>Specie:</b> European Crested Tit(<i>Parus cristatus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1205m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571303\">12571303</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.479816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Coal Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:21<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1205m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571304\">12571304</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.479816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Heron",
+        "description": "<b>Date:</b> 11.26.2016 07:48<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 970m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571305\">12571305</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.207587,
+          46.485477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Siskin",
+        "description": "<b>Date:</b> 11.26.2016 08:21<br><b>Specie:</b> Eurasian Siskin(<i>Carduelis spinus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1205m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571306\">12571306</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.479816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Blue Tit",
+        "description": "<b>Date:</b> 11.26.2016 07:49<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 978m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571307\">12571307</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.485135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Red Crossbill",
+        "description": "<b>Date:</b> 11.26.2016 08:28<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1263m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571308\">12571308</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.204592,
+          46.477984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Wren",
+        "description": "<b>Date:</b> 11.26.2016 07:49<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 978m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571309\">12571309</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.208154,
+          46.485135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 11.26.2016 08:30<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1276m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571310\">12571310</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203357,
+          46.477777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Red Crossbill",
+        "description": "<b>Date:</b> 11.26.2016 07:51<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 989m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571311\">12571311</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211358,
+          46.485789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 European Crested Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:30<br><b>Specie:</b> European Crested Tit(<i>Parus cristatus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1276m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571312\">12571312</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203357,
+          46.477777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 11.26.2016 07:52<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 986m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571313\">12571313</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.207811,
+          46.484781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Coal Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:33<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1282m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571314\">12571314</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203005,
+          46.477542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Black Woodpecker",
+        "description": "<b>Date:</b> 11.26.2016 08:38<br><b>Specie:</b> Black Woodpecker(<i>Dryocopus martius</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1235m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571315\">12571315</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199081,
+          46.475513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Wren",
+        "description": "<b>Date:</b> 11.26.2016 07:55<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 977m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571316\">12571316</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.21038,
+          46.486197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Goldcrest",
+        "description": "<b>Date:</b> 11.26.2016 08:38<br><b>Specie:</b> Goldcrest(<i>Regulus regulus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1235m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571317\">12571317</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199081,
+          46.475513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Goldcrest",
+        "description": "<b>Date:</b> 11.26.2016 08:00<br><b>Specie:</b> Goldcrest(<i>Regulus regulus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1024m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571318\">12571318</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212145,
+          46.484873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Red Crossbill",
+        "description": "<b>Date:</b> 11.26.2016 08:39<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1235m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571319\">12571319</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199081,
+          46.475513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Crested Tit",
+        "description": "<b>Date:</b> 11.26.2016 08:00<br><b>Specie:</b> European Crested Tit(<i>Parus cristatus</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1024m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571320\">12571320</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212145,
+          46.484873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Carrion Crow",
+        "description": "<b>Date:</b> 11.26.2016 08:41<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1131m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571321\">12571321</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197443,
+          46.477495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Jay",
+        "description": "<b>Date:</b> 11.26.2016 08:41<br><b>Specie:</b> Eurasian Jay(<i>Garrulus glandarius</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1120m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571322\">12571322</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197493,
+          46.477743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Raven",
+        "description": "<b>Date:</b> 11.26.2016 08:00<br><b>Specie:</b> Common Raven(<i>Corvus corax</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1024m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571323\">12571323</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212145,
+          46.484873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Red Crossbill",
+        "description": "<b>Date:</b> 11.26.2016 08:03<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Rougemont [582/147] / Rougemont (VD) - 1080m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12571324\">12571324</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212488,
+          46.484044
+        ]
+      }
+    }
+  ]
+}
