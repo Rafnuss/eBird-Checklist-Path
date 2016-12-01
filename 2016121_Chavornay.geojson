@@ -1,0 +1,1059 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing20 Common Blackbird",
+        "description": "<b>Date:</b> 12.01.2016 08:01<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 437m<br><b>Observation:</b> Precise pointing20 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596301\">12596301</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.570254,
+          46.722779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Wren",
+        "description": "<b>Date:</b> 12.01.2016 08:01<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596302\">12596302</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.568534,
+          46.724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Chaffinch",
+        "description": "<b>Date:</b> 12.01.2016 08:01<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596303\">12596303</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.568534,
+          46.724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Reed Bunting",
+        "description": "<b>Date:</b> 12.01.2016 08:17<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596304\">12596304</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Water Pipit",
+        "description": "<b>Date:</b> 12.01.2016 08:01<br><b>Specie:</b> Water Pipit(<i>Anthus spinoletta</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596305\">12596305</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.568534,
+          46.724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Teal",
+        "description": "<b>Date:</b> 12.01.2016 08:18<br><b>Specie:</b> Eurasian Teal(<i>Anas crecca</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596306\">12596306</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 White Wagtail",
+        "description": "<b>Date:</b> 12.01.2016 08:03<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596307\">12596307</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.568277,
+          46.724045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Wren",
+        "description": "<b>Date:</b> 12.01.2016 08:19<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596308\">12596308</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Meadow Pipit",
+        "description": "<b>Date:</b> 12.01.2016 08:07<br><b>Specie:</b> Meadow Pipit(<i>Anthus pratensis</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596309\">12596309</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565573,
+          46.723462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Blue Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:08<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596310\">12596310</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566644,
+          46.722131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing14 Mallard",
+        "description": "<b>Date:</b> 12.01.2016 08:20<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing14 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596311\">12596311</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Great White Egret",
+        "description": "<b>Date:</b> 12.01.2016 08:08<br><b>Specie:</b> Great White Egret(<i>Egretta alba</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596312\">12596312</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565997,
+          46.721635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Common Reed Bunting",
+        "description": "<b>Date:</b> 12.01.2016 08:25<br><b>Specie:</b> Common Reed Bunting(<i>Emberiza schoeniclus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596313\">12596313</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563031,
+          46.721448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing9 Mute Swan",
+        "description": "<b>Date:</b> 12.01.2016 08:10<br><b>Specie:</b> Mute Swan(<i>Cygnus olor</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing9 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596314\">12596314</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56733,
+          46.720741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Water Pipit",
+        "description": "<b>Date:</b> 12.01.2016 08:25<br><b>Specie:</b> Water Pipit(<i>Anthus spinoletta</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596315\">12596315</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563974,
+          46.722097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing11 Eurasian Wigeon",
+        "description": "<b>Date:</b> 12.01.2016 08:14<br><b>Specie:</b> Eurasian Wigeon(<i>Anas penelope</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing11 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596316\">12596316</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566692,
+          46.721074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Mistle Thrush",
+        "description": "<b>Date:</b> 12.01.2016 08:25<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596317\">12596317</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562237,
+          46.720965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Blue Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:34<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 441m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596318\">12596318</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564845,
+          46.719906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Eurasian Wren",
+        "description": "<b>Date:</b> 12.01.2016 08:25<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596319\">12596319</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562237,
+          46.720965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Northern Pintail",
+        "description": "<b>Date:</b> 12.01.2016 08:14<br><b>Specie:</b> Northern Pintail(<i>Anas acuta</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596320\">12596320</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566692,
+          46.721074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Robin",
+        "description": "<b>Date:</b> 12.01.2016 08:58<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596321\">12596321</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560937,
+          46.720726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chiffchaff",
+        "description": "<b>Date:</b> 12.01.2016 08:41<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596322\">12596322</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563297,
+          46.719043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Wren",
+        "description": "<b>Date:</b> 12.01.2016 08:58<br><b>Specie:</b> Eurasian Wren(<i>Troglodytes troglodytes</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596324\">12596324</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560937,
+          46.720726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 European Robin",
+        "description": "<b>Date:</b> 12.01.2016 08:26<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 440m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596325\">12596325</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565701,
+          46.720102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing16 Gadwall",
+        "description": "<b>Date:</b> 12.01.2016 08:15<br><b>Specie:</b> Gadwall(<i>Anas strepera</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing16 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596326\">12596326</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566692,
+          46.721074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Long-tailed Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:41<br><b>Specie:</b> Long-tailed Tit(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 440m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596327\">12596327</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563644,
+          46.718982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Heron",
+        "description": "<b>Date:</b> 12.01.2016 09:01<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 435m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596328\">12596328</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.557915,
+          46.720785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Blue Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:26<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596329\">12596329</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563076,
+          46.720774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Common Chaffinch",
+        "description": "<b>Date:</b> 12.01.2016 08:42<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 440m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596330\">12596330</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563644,
+          46.718982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Northern Shoveler",
+        "description": "<b>Date:</b> 12.01.2016 08:15<br><b>Specie:</b> Northern Shoveler(<i>Anas clypeata</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596332\">12596332</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566692,
+          46.721074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing18 Great White Egret",
+        "description": "<b>Date:</b> 12.01.2016 09:01<br><b>Specie:</b> Great White Egret(<i>Egretta alba</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing18 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596333\">12596333</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560976,
+          46.72396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Heron",
+        "description": "<b>Date:</b> 12.01.2016 08:27<br><b>Specie:</b> Grey Heron(<i>Ardea cinerea</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596334\">12596334</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563898,
+          46.722015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Buzzard",
+        "description": "<b>Date:</b> 12.01.2016 08:43<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596335\">12596335</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564371,
+          46.71687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Yellow-legged Gull",
+        "description": "<b>Date:</b> 12.01.2016 09:03<br><b>Specie:</b> Yellow-legged Gull(<i>Larus michahellis</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596336\">12596336</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.561369,
+          46.722396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing100 Common Starling",
+        "description": "<b>Date:</b> 12.01.2016 08:16<br><b>Specie:</b> Common Starling(<i>Sturnus vulgaris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing100 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596337\">12596337</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Marsh Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:43<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596339\">12596339</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564371,
+          46.71687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Kingfisher",
+        "description": "<b>Date:</b> 12.01.2016 08:27<br><b>Specie:</b> Common Kingfisher(<i>Alcedo atthis</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596340\">12596340</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563898,
+          46.722015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Blackbird",
+        "description": "<b>Date:</b> 12.01.2016 09:09<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596341\">12596341</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562186,
+          46.723251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Nuthatch",
+        "description": "<b>Date:</b> 12.01.2016 08:44<br><b>Specie:</b> Eurasian Nuthatch(<i>Sitta europaea</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596342\">12596342</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564371,
+          46.71687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Carrion Crow",
+        "description": "<b>Date:</b> 12.01.2016 08:16<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596343\">12596343</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Siskin",
+        "description": "<b>Date:</b> 12.01.2016 08:28<br><b>Specie:</b> Eurasian Siskin(<i>Carduelis spinus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 432m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596344\">12596344</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562023,
+          46.722661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 White Wagtail",
+        "description": "<b>Date:</b> 12.01.2016 09:09<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596346\">12596346</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562186,
+          46.723251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chiffchaff",
+        "description": "<b>Date:</b> 12.01.2016 08:33<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 441m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596347\">12596347</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564845,
+          46.719906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Mistle Thrush",
+        "description": "<b>Date:</b> 12.01.2016 08:46<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 440m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596348\">12596348</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565185,
+          46.718278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing47 Eurasian Coot",
+        "description": "<b>Date:</b> 12.01.2016 08:17<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 434m<br><b>Observation:</b> Precise pointing47 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596349\">12596349</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567503,
+          46.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Water Pipit",
+        "description": "<b>Date:</b> 12.01.2016 09:10<br><b>Specie:</b> Water Pipit(<i>Anthus spinoletta</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 436m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596350\">12596350</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562186,
+          46.723251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Marsh Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:34<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 441m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596352\">12596352</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564845,
+          46.719906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Spotted Woodpecker",
+        "description": "<b>Date:</b> 12.01.2016 08:46<br><b>Specie:</b> Great Spotted Woodpecker(<i>Dendrocopos major</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 440m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596353\">12596353</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565185,
+          46.718278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Mistle Thrush",
+        "description": "<b>Date:</b> 12.01.2016 08:34<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 441m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596354\">12596354</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.564845,
+          46.719906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Blue Tit",
+        "description": "<b>Date:</b> 12.01.2016 09:19<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 435m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596355\">12596355</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563557,
+          46.723687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Fieldfare",
+        "description": "<b>Date:</b> 12.01.2016 08:53<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 437m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596357\">12596357</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.562094,
+          46.719012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Common Chiffchaff",
+        "description": "<b>Date:</b> 12.01.2016 09:19<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 435m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596358\">12596358</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563557,
+          46.723687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Fieldfare",
+        "description": "<b>Date:</b> 12.01.2016 08:53<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 437m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596359\">12596359</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57025,
+          46.72272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 12.01.2016 09:19<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 435m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596360\">12596360</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563557,
+          46.723687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Nuthatch",
+        "description": "<b>Date:</b> 12.01.2016 08:56<br><b>Specie:</b> Eurasian Nuthatch(<i>Sitta europaea</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596362\">12596362</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560507,
+          46.720689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Tit",
+        "description": "<b>Date:</b> 12.01.2016 09:20<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 435m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596363\">12596363</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.563557,
+          46.723687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chiffchaff",
+        "description": "<b>Date:</b> 12.01.2016 08:56<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596364\">12596364</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560507,
+          46.720689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing39 Mallard",
+        "description": "<b>Date:</b> 12.01.2016 09:32<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 438m<br><b>Observation:</b> Precise pointing39 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596365\">12596365</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.569002,
+          46.724907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Mistle Thrush",
+        "description": "<b>Date:</b> 12.01.2016 08:56<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596366\">12596366</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560507,
+          46.720689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Kestrel",
+        "description": "<b>Date:</b> 12.01.2016 08:46<br><b>Specie:</b> Common Kestrel(<i>Falco tinnunculus</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 443m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596367\">12596367</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574762,
+          46.721283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Marsh Tit",
+        "description": "<b>Date:</b> 12.01.2016 08:56<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596368\">12596368</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560507,
+          46.720689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Eurasian Teal",
+        "description": "<b>Date:</b> 12.01.2016 08:58<br><b>Specie:</b> Eurasian Teal(<i>Anas crecca</i>)<br><b>Place:</b> Chavornay / Chavornay (VD) - 439m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12596369\">12596369</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.560937,
+          46.720726
+        ]
+      }
+    }
+  ]
+}
