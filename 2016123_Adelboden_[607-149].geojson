@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Golden Eagle",
+        "description": "<b>Date:</b> 12.03.2016 13:21<br><b>Specie:</b> Golden Eagle(<i>Aquila chrysaetos</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629886\">12629886</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 12.03.2016 15:55<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1549m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629887\">12629887</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567731,
+          46.507297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Red Crossbill",
+        "description": "<b>Date:</b> 12.03.2016 14:01<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629888\">12629888</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Crested Tit",
+        "description": "<b>Date:</b> 12.03.2016 14:01<br><b>Specie:</b> European Crested Tit(<i>Parus cristatus</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629889\">12629889</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Buzzard",
+        "description": "<b>Date:</b> 12.03.2016 16:29<br><b>Specie:</b> Common Buzzard(<i>Buteo buteo</i>)<br><b>Place:</b> Adelboden [610/150] / Adelboden (BE) - 1427m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629890\">12629890</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569962,
+          46.504988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Mistle Thrush",
+        "description": "<b>Date:</b> 12.03.2016 14:02<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629891\">12629891</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Treecreeper",
+        "description": "<b>Date:</b> 12.03.2016 14:02<br><b>Specie:</b> Eurasian Treecreeper(<i>Certhia familiaris</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629892\">12629892</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chaffinch",
+        "description": "<b>Date:</b> 12.03.2016 16:29<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Adelboden [610/150] / Adelboden (BE) - 1427m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629893\">12629893</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569962,
+          46.504988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Fieldfare",
+        "description": "<b>Date:</b> 12.03.2016 14:02<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629894\">12629894</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Coal Tit",
+        "description": "<b>Date:</b> 12.03.2016 14:03<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Adelboden [607/149] / Adelboden (BE) - 1658m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629895\">12629895</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530315,
+          46.493182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing20 Brambling",
+        "description": "<b>Date:</b> 12.03.2016 15:25<br><b>Specie:</b> Brambling(<i>Fringilla montifringilla</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1749m<br><b>Observation:</b> Precise pointing20 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629896\">12629896</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560254,
+          46.505148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Mistle Thrush",
+        "description": "<b>Date:</b> 12.03.2016 15:25<br><b>Specie:</b> Mistle Thrush(<i>Turdus viscivorus</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1749m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629897\">12629897</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560254,
+          46.505148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Siskin",
+        "description": "<b>Date:</b> 12.03.2016 15:30<br><b>Specie:</b> Eurasian Siskin(<i>Carduelis spinus</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1749m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629898\">12629898</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560254,
+          46.505148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Red Crossbill",
+        "description": "<b>Date:</b> 12.03.2016 15:30<br><b>Specie:</b> Red Crossbill(<i>Loxia curvirostra</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1749m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629899\">12629899</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560254,
+          46.505148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing150 Fieldfare",
+        "description": "<b>Date:</b> 12.03.2016 15:32<br><b>Specie:</b> Fieldfare(<i>Turdus pilaris</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1594m<br><b>Observation:</b> Precise pointing150 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629900\">12629900</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564725,
+          46.507435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Alpine or Willow Tit",
+        "description": "<b>Date:</b> 12.03.2016 15:38<br><b>Specie:</b> Alpine or Willow Tit(<i>Parus montanus</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1603m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629901\">12629901</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565713,
+          46.507086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Eurasian Bullfinch",
+        "description": "<b>Date:</b> 12.03.2016 15:41<br><b>Specie:</b> Eurasian Bullfinch(<i>Pyrrhula pyrrhula</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1579m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629902\">12629902</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566571,
+          46.506909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Brambling",
+        "description": "<b>Date:</b> 12.03.2016 15:55<br><b>Specie:</b> Brambling(<i>Fringilla montifringilla</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1549m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629903\">12629903</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567731,
+          46.507297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Eurasian Siskin",
+        "description": "<b>Date:</b> 12.03.2016 15:55<br><b>Specie:</b> Eurasian Siskin(<i>Carduelis spinus</i>)<br><b>Place:</b> Adelboden [609/150] / Adelboden (BE) - 1549m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12629904\">12629904</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567731,
+          46.507297
+        ]
+      }
+    }
+  ]
+}
