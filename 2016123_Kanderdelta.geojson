@@ -1,0 +1,651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Common Blackbird",
+        "description": "<b>Date:</b> 12.03.2016 09:52<br><b>Specie:</b> Common Blackbird(<i>Turdus merula</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627713\">12627713</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing15 Common Black-headed Gull",
+        "description": "<b>Date:</b> 12.03.2016 10:28<br><b>Specie:</b> Common Black-headed Gull(<i>Larus ridibundus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing15 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627714\">12627714</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641878,
+          46.721247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Marsh Tit",
+        "description": "<b>Date:</b> 12.03.2016 09:52<br><b>Specie:</b> Marsh Tit(<i>Parus palustris</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627715\">12627715</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Tufted Duck",
+        "description": "<b>Date:</b> 12.03.2016 10:16<br><b>Specie:</b> Tufted Duck(<i>Aythya fuligula</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627716\">12627716</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Goldcrest",
+        "description": "<b>Date:</b> 12.03.2016 10:45<br><b>Specie:</b> Goldcrest(<i>Regulus regulus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 568m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627717\">12627717</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636448,
+          46.716491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Common Chaffinch",
+        "description": "<b>Date:</b> 12.03.2016 09:53<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627718\">12627718</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Crested Grebe",
+        "description": "<b>Date:</b> 12.03.2016 10:16<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627719\">12627719</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Sparrowhawk",
+        "description": "<b>Date:</b> 12.03.2016 10:46<br><b>Specie:</b> Eurasian Sparrowhawk(<i>Accipiter nisus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 568m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627720\">12627720</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636448,
+          46.716491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Little Grebe",
+        "description": "<b>Date:</b> 12.03.2016 10:16<br><b>Specie:</b> Little Grebe(<i>Tachybaptus ruficollis</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627721\">12627721</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Firecrest",
+        "description": "<b>Date:</b> 12.03.2016 10:51<br><b>Specie:</b> Firecrest(<i>Regulus ignicapilla</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 570m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627722\">12627722</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635483,
+          46.714887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Blue Tit",
+        "description": "<b>Date:</b> 12.03.2016 09:53<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627723\">12627723</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Robin",
+        "description": "<b>Date:</b> 12.03.2016 10:17<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627724\">12627724</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 12.03.2016 10:51<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 570m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627725\">12627725</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635483,
+          46.714887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Great Tit",
+        "description": "<b>Date:</b> 12.03.2016 10:17<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627726\">12627726</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Wagtail",
+        "description": "<b>Date:</b> 12.03.2016 09:55<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627727\">12627727</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Eurasian Teal",
+        "description": "<b>Date:</b> 12.03.2016 10:51<br><b>Specie:</b> Eurasian Teal(<i>Anas crecca</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627728\">12627728</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63587,
+          46.714859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Common Chaffinch",
+        "description": "<b>Date:</b> 12.03.2016 10:17<br><b>Specie:</b> Common Chaffinch(<i>Fringilla coelebs</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627729\">12627729</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Eurasian Jay",
+        "description": "<b>Date:</b> 12.03.2016 09:55<br><b>Specie:</b> Eurasian Jay(<i>Garrulus glandarius</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627730\">12627730</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing19 Mallard",
+        "description": "<b>Date:</b> 12.03.2016 10:19<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing19 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627731\">12627731</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 White Wagtail",
+        "description": "<b>Date:</b> 12.03.2016 10:21<br><b>Specie:</b> White Wagtail(<i>Motacilla alba</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627732\">12627732</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Great Tit",
+        "description": "<b>Date:</b> 12.03.2016 09:55<br><b>Specie:</b> Great Tit(<i>Parus major</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627733\">12627733</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Kingfisher",
+        "description": "<b>Date:</b> 12.03.2016 10:21<br><b>Specie:</b> Common Kingfisher(<i>Alcedo atthis</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627734\">12627734</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Carrion Crow",
+        "description": "<b>Date:</b> 12.03.2016 09:55<br><b>Specie:</b> Carrion Crow(<i>Corvus corone corone</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 569m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627735\">12627735</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635594,
+          46.714682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Dunlin",
+        "description": "<b>Date:</b> 12.03.2016 10:22<br><b>Specie:</b> Dunlin(<i>Calidris alpina</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627736\">12627736</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Grey Wagtail",
+        "description": "<b>Date:</b> 12.03.2016 10:22<br><b>Specie:</b> Grey Wagtail(<i>Motacilla cinerea</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627737\">12627737</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Coal Tit",
+        "description": "<b>Date:</b> 12.03.2016 10:00<br><b>Specie:</b> Coal Tit(<i>Parus ater</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 570m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627738\">12627738</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63617,
+          46.716403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 White-throated Dipper",
+        "description": "<b>Date:</b> 12.03.2016 10:23<br><b>Specie:</b> White-throated Dipper(<i>Cinclus cinclus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 558m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627739\">12627739</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640633,
+          46.719345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing4 Common Snipe",
+        "description": "<b>Date:</b> 12.03.2016 10:05<br><b>Specie:</b> Common Snipe(<i>Gallinago gallinago</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 567m<br><b>Observation:</b> Precise pointing4 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627740\">12627740</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638356,
+          46.716888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing4 Eurasian Coot",
+        "description": "<b>Date:</b> 12.03.2016 10:26<br><b>Specie:</b> Eurasian Coot(<i>Fulica atra</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing4 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627741\">12627741</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636921,
+          46.721376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 European Robin",
+        "description": "<b>Date:</b> 12.03.2016 10:12<br><b>Specie:</b> European Robin(<i>Erithacus rubecula</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 559m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627742\">12627742</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639774,
+          46.718213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing14 Tufted Duck",
+        "description": "<b>Date:</b> 12.03.2016 10:26<br><b>Specie:</b> Tufted Duck(<i>Aythya fuligula</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing14 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627743\">12627743</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639149,
+          46.721628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Short-toed Treecreeper",
+        "description": "<b>Date:</b> 12.03.2016 10:12<br><b>Specie:</b> Short-toed Treecreeper(<i>Certhia brachydactyla</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 559m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627744\">12627744</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639774,
+          46.718213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Mallard",
+        "description": "<b>Date:</b> 12.03.2016 10:27<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627745\">12627745</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640311,
+          46.721817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing2 Great Crested Grebe",
+        "description": "<b>Date:</b> 12.03.2016 10:27<br><b>Specie:</b> Great Crested Grebe(<i>Podiceps cristatus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing2 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627746\">12627746</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641684,
+          46.721773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing10 Long-tailed Tit",
+        "description": "<b>Date:</b> 12.03.2016 10:12<br><b>Specie:</b> Long-tailed Tit(<i>Aegithalos caudatus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 559m<br><b>Observation:</b> Precise pointing10 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627747\">12627747</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639774,
+          46.718213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing5 Blue Tit",
+        "description": "<b>Date:</b> 12.03.2016 10:12<br><b>Specie:</b> Blue Tit(<i>Parus caeruleus</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 559m<br><b>Observation:</b> Precise pointing5 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627748\">12627748</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639774,
+          46.718213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing1 Common Chiffchaff",
+        "description": "<b>Date:</b> 12.03.2016 10:12<br><b>Specie:</b> Common Chiffchaff(<i>Phylloscopus collybita</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 559m<br><b>Observation:</b> Precise pointing1 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627749\">12627749</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639774,
+          46.718213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Precise pointing3 Mallard",
+        "description": "<b>Date:</b> 12.03.2016 10:16<br><b>Specie:</b> Mallard(<i>Anas platyrhynchos</i>)<br><b>Place:</b> Kanderdelta / Spiez (BE) - 557m<br><b>Observation:</b> Precise pointing3 ind. (atlas code:) <br>ID: <a href=\"http://www.ornitho.ch/index.php?m_id=54&id=12627750\">12627750</a>",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637521,
+          46.718127
+        ]
+      }
+    }
+  ]
+}
